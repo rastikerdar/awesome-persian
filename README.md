@@ -9,6 +9,7 @@
   <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
   <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
   <li><a href="https://github.com/vahit/pep8-per">pep8-per - آموزش Python PEP8 به زبان آدمیزاد</a></li>
+  <li><a href="https://github.com/iraj-jelo/srtmerger">srtmerger - یه پروژه فان برای ترکیب کردن زیر نویس های ویدویی</a></li>
 </ul>
 
 <h2 dir="rtl">جاوا Javascript</h2>
