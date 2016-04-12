@@ -31,6 +31,7 @@
   <li><a href="https://github.com/ebraminio/DroidPersianCalendar">DroidPersianCalendar - برنامه تقویم فارسی اندروید</a></li>
   <li><a href="https://github.com/alibehzadian/PersianDatePicker">PersianDatePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
   <li><a href="https://github.com/MasoodFallahpoor/TehranBrt">TehranBrt - برنامه نمایش مسیرها و ایستگاه‌های بی آر تی تهران</a></li>
+  <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
 </ul>
 
 <h2 dir="rtl">گنو/لینوکس GNU/Linux</h2>
