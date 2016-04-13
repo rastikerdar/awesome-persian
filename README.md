@@ -6,7 +6,7 @@
   <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
   <li><a href="https://github.com/ilius/pyglossary">PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف</a></li>
   <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
-  <li><a href="https://github.com/ilius/starcal/">Starcal - برنامه تقویم فارسی استارکل نوشته شده با پایتون</a></li>
+  <li><a href="https://github.com/ilius/starcal/">StarCalendar - تقویم گرافیکی دوزبانه با پشتیبانی از هجری شمسی، میلادی و قمری</a></li>
   <li><a href="https://github.com/reza1615/Persian-Spell-checker">Persian-Spell-checker - غلط یاب فارسی</a></li>
   <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
   <li><a href="https://github.com/itmard/persian.py">Persian.py - کتابخانه ای برای زبان فارسی در پایتون</a></li>
