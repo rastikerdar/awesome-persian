@@ -52,12 +52,19 @@
   <li><a href="https://github.com/aziz/jalalidate">jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی</a></li>
 </ul>
 
+<h2 dir="rtl">جاوا Java</h2>
+<ul dir="rtl">
+  <li><a href="https://github.com/abbashosseini/PersianDT">PersianDT - کتابخانه تاریخ شمسی</a></li>
+</ul>
+
 <h2 dir="rtl">اندروید Android</h2>
 <ul dir="rtl">
   <li><a href="https://github.com/ebraminio/DroidPersianCalendar">DroidPersianCalendar - برنامه تقویم فارسی اندروید</a></li>
   <li><a href="https://github.com/alibehzadian/PersianDatePicker">PersianDatePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
   <li><a href="https://github.com/MasoodFallahpoor/TehranBrt">TehranBrt - برنامه نمایش مسیرها و ایستگاه‌های بی آر تی تهران</a></li>
   <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
+  <li><a href="https://github.com/mohamad-amin/PersianMaterialDateTimePicker">PersianMaterialDateTimePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
+  <li><a href="https://github.com/alirezaafkar/SunDatePicker">SunDatePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
 </ul>
 
 <h2 dir="rtl">سی پلاس پلاس C++</h2>
