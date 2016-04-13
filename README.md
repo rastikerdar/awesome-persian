@@ -18,7 +18,7 @@
   <li><a href="https://github.com/itmard/persian.py">Persian.py - کتابخانه ای برای زبان فارسی در پایتون</a></li>
 </ul>
 
-<h2 dir="rtl">جاوا Javascript</h2>
+<h2 dir="rtl">جاواسکریپت Javascript</h2>
 <ul dir="rtl">
   <li><a href="https://github.com/usablica/persian.js">persian.js - کتابخانه ای برای زبان فارسی در جاوااسکرپیت</a></li>
   <li><a href="https://github.com/habibpour/rial.js">rial.js - کتابخانه ای برای فرمت نرخ و پول در جاوااسکریپت</a></li>
