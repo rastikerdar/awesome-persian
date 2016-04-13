@@ -3,20 +3,19 @@
 
 <h2 dir="rtl">پایتون Python</h2>
 <ul dir="rtl">
-  <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
-  <li><a href="https://github.com/ilius/pyglossary">PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف</a></li>
   <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
-  <li><a href="https://github.com/ilius/starcal/">StarCalendar - تقویم گرافیکی دوزبانه با پشتیبانی از هجری شمسی، میلادی و قمری</a></li>
-  <li><a href="https://github.com/reza1615/Persian-Spell-checker">Persian-Spell-checker - غلط یاب فارسی</a></li>
+  <li><a href="https://github.com/ilius/starcal/">Starcal - برنامه تقویم فارسی استارکل نوشته شده با پایتون</a></li>
+  <li><a href="https://pypi.python.org/pypi/Khayyam">Khayyam - کتابخانه تبدیل تاریخ جلالی میلادی خیام در پایتون</a></li>
   <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
-  <li><a href="https://github.com/itmard/persian.py">Persian.py - کتابخانه ای برای زبان فارسی در پایتون</a></li>
-  <li><a href="https://github.com/pylover/khayyam">Khayyam - کتابخانه تبدیل تاریخ جلالی میلادی خیام در پایتون</a></li>
-  <li><a href="https://github.com/m-o-s-t-a-f-a/lilak">Lilak - دیکشنری غلط یاب فارسی</a></li>
-  <li><a href="https://github.com/iraj-jelo/srtmerger">srtmerger - یه پروژه فان برای ترکیب کردن زیر نویس های ویدویی</a></li>
-  <li><a href="https://github.com/maryayi/parsnevesht">parsnevesht - رفع خودکار برخی اشتباهات رایج در متون فارسی</a></li>
-  <li><a href="https://github.com/5j9/wikitextparser">wikitextparser - wikitext یک ابزار پایتونی تجزیه کننده</a></li>
+  <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
   <li><a href="https://github.com/vahit/pep8-per">pep8-per - آموزش Python PEP8 به زبان آدمیزاد</a></li>
+  <li><a href="https://github.com/iraj-jelo/srtmerger">srtmerger - یه پروژه فان برای ترکیب کردن زیر نویس های ویدویی</a></li>
+  <li><a href="https://github.com/reza1615/Persian-Spell-checker">Persian-Spell-checker - غلط یاب فارسی</a></li>
+  <li><a href="https://github.com/m-o-s-t-a-f-a/lilak">Lilak - دیکشنری غلط یاب فارسی</a></li>
+  <li><a href="https://github.com/5j9/wikitextparser">wikitextparser - wikitext یک ابزار پایتونی تجزیه کننده</a></li>
   <li><a href="https://github.com/5j9/number2farsiword">number2farsiword - تبدیل عدد به واژه فارسی</a></li>
+  <li><a href="https://github.com/maryayi/parsnevesht">parsnevesht - رفع خودکار برخی اشتباهات رایج در متون فارسی</a></li>
+  <li><a href="https://github.com/itmard/persian.py">Persian.py - کتابخانه ای برای زبان فارسی در پایتون</a></li>
 </ul>
 
 <h2 dir="rtl">جاواسکریپت Javascript</h2>
@@ -37,7 +36,6 @@
   <li><a href="https://github.com/AminRahimi/angular-bootstrap-persian-datepicker">Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار</a></li>
   <li><a href="https://github.com/sobhe/moratab">moratab - تسهیل ویرایش متون markdown </a></li>
   <li><a href="https://github.com/kharazi/moujez">moujez - خلاصه‌سازی متن</a></li>
-  <li><a href="https://github.com/imasood/nbpersian">nbpersian - کتاب Node.js برای مبتدی‌ها</a></li>
 </ul>
 
 
@@ -67,6 +65,7 @@
   <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
   <li><a href="https://github.com/mohamad-amin/PersianMaterialDateTimePicker">PersianMaterialDateTimePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
   <li><a href="https://github.com/alirezaafkar/SunDatePicker">SunDatePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
+  <li><a href="https://github.com/NileGroup/Meikade">Persian poem application - مجموعهٔ شعر فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">سی پلاس پلاس C++</h2>
@@ -77,6 +76,7 @@
 <h2 dir="rtl">گنو/لینوکس GNU/Linux</h2>
 <ul dir="rtl">
   <li><a href="https://github.com/jadijadi/linuxandlife">linuxandlife - کتاب راهنمای لینوکس و زندگی</a></li>
+  <li><a href="https://github.com/ashkang/jcal">Jalali Calendar Library - کتابخانهٔ تقویم جلالی</a></li>
 </ul>
 
 <h2 dir="rtl">فونت</h2>
@@ -101,6 +101,7 @@
   <li><a href="http://tehlug.ir">Tehlug - گروه کاربران گنو/لینوکس تهران</a></li>
   <li><a href="http://www.karajlug.org/">Karajlug - گروه کاربران لینوکس کرج</a></li>
   <li><a href="https://shirazlug.ir/">Shirazlug - گروه کاربران گنو/لینوکس شیراز</a></li>
+  <li><a href="https://wiki.lfkf.org/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C> FKF - بنیاد دانش آزاد</a></li>
 </ul>
 
 <h2 dir="rtl">آموزشی</h2>
@@ -118,6 +119,9 @@
   <li><a href="https://github.com/kharazi/persian-stopwords">persian-stopwords - لیست کلمات ایست فارسی</a></li>
   <li><a href="https://github.com/marhale3/marhale3.github.io">marhale3.github.io - پروجکت اویلر فارسی</a></li>
   <li><a href="https://github.com/IKAcc/RangeBrand">rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران</a></li>
+  <li><a href="http://ganjoor.net/>گنجور</a></li>
+  <li><a href="http://www.vajehyab.com/">واژه‌یاب</a></li>
+  
 </ul>
 
 
