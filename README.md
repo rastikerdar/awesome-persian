@@ -4,6 +4,7 @@
 <h2 dir="rtl">پایتون Python</h2>
 <ul dir="rtl">
   <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
+  <li><a href="https://github.com/ilius/pyglossary">PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف</a></li>
   <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
   <li><a href="https://github.com/ilius/starcal/">Starcal - برنامه تقویم فارسی استارکل نوشته شده با پایتون</a></li>
   <li><a href="https://github.com/reza1615/Persian-Spell-checker">Persian-Spell-checker - غلط یاب فارسی</a></li>
