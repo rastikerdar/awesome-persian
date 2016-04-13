@@ -36,7 +36,7 @@
   <li><a href="https://github.com/AminRahimi/angular-bootstrap-persian-datepicker">Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار</a></li>
   <li><a href="https://github.com/sobhe/moratab">moratab - تسهیل ویرایش متون markdown </a></li>
   <li><a href="https://github.com/kharazi/moujez">moujez - خلاصه‌سازی متن</a></li>
-  <li><a href="https://github.com/kharazi/moujez">nbpersian - کتاب Node.js برای مبتدی‌ها/a></li>
+  <li><a href="https://github.com/imasood/nbpersian">nbpersian - کتاب Node.js برای مبتدی‌ها/a></li>
 </ul>
 
 
