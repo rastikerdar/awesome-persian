@@ -3,19 +3,20 @@
 
 <h2 dir="rtl">پایتون Python</h2>
 <ul dir="rtl">
-  <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
-  <li><a href="https://github.com/ilius/starcal/">Starcal - برنامه تقویم فارسی استارکل نوشته شده با پایتون</a></li>
-  <li><a href="https://pypi.python.org/pypi/Khayyam">Khayyam - کتابخانه تبدیل تاریخ جلالی میلادی خیام در پایتون</a></li>
-  <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
   <li><a href="https://github.com/aziz/PlainTasks">PlainTasks - پلاگین todo-list برای ویرایشگر sublime</a></li>
-  <li><a href="https://github.com/vahit/pep8-per">pep8-per - آموزش Python PEP8 به زبان آدمیزاد</a></li>
-  <li><a href="https://github.com/iraj-jelo/srtmerger">srtmerger - یه پروژه فان برای ترکیب کردن زیر نویس های ویدویی</a></li>
+  <li><a href="https://github.com/ilius/pyglossary">PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف</a></li>
+  <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
+  <li><a href="https://github.com/ilius/starcal/">StarCalendar - تقویم گرافیکی دوزبانه با پشتیبانی از هجری شمسی، میلادی و قمری</a></li>
   <li><a href="https://github.com/reza1615/Persian-Spell-checker">Persian-Spell-checker - غلط یاب فارسی</a></li>
-  <li><a href="https://github.com/m-o-s-t-a-f-a/lilak">Lilak - دیکشنری غلط یاب فارسی</a></li>
-  <li><a href="https://github.com/5j9/wikitextparser">wikitextparser - wikitext یک ابزار پایتونی تجزیه کننده</a></li>
-  <li><a href="https://github.com/5j9/number2farsiword">number2farsiword - تبدیل عدد به واژه فارسی</a></li>
-  <li><a href="https://github.com/maryayi/parsnevesht">parsnevesht - رفع خودکار برخی اشتباهات رایج در متون فارسی</a></li>
+  <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
   <li><a href="https://github.com/itmard/persian.py">Persian.py - کتابخانه ای برای زبان فارسی در پایتون</a></li>
+  <li><a href="https://github.com/pylover/khayyam">Khayyam - کتابخانه تبدیل تاریخ جلالی میلادی خیام در پایتون</a></li>
+  <li><a href="https://github.com/m-o-s-t-a-f-a/lilak">Lilak - دیکشنری غلط یاب فارسی</a></li>
+  <li><a href="https://github.com/iraj-jelo/srtmerger">srtmerger - یه پروژه فان برای ترکیب کردن زیر نویس های ویدویی</a></li>
+  <li><a href="https://github.com/maryayi/parsnevesht">parsnevesht - رفع خودکار برخی اشتباهات رایج در متون فارسی</a></li>
+  <li><a href="https://github.com/5j9/wikitextparser">wikitextparser - wikitext یک ابزار پایتونی تجزیه کننده</a></li>
+  <li><a href="https://github.com/vahit/pep8-per">pep8-per - آموزش Python PEP8 به زبان آدمیزاد</a></li>
+  <li><a href="https://github.com/5j9/number2farsiword">number2farsiword - تبدیل عدد به واژه فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">جاواسکریپت Javascript</h2>
