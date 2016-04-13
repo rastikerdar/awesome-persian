@@ -87,6 +87,7 @@
   <li><a href="https://github.com/font-store/font-nika">Nika - قلم نیکا</a></li>
   <li><a href="https://github.com/sariina/appa-sariicon">appa-sariicon - مجموعه‌ای از ۱۴۷ وب‌آیکون برای اپ موبایل و وب</a></li>
   <li><a href="https://github.com/font-store/font-nika">RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی</a></li>
+  <li><a href="http://saeedgnu.blog.ir/post/50">ویژگی‌های یک قلم‌ فارسی استاندارد</a></li>
 </ul>
 
 <h2 dir="rtl">قالب</h2>
