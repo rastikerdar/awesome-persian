@@ -3,7 +3,12 @@
 
 <h2 dir="rtl">پایتون Python</h2>
 <ul dir="rtl">
+	<li><a href="https://github.com/mostaphaRoudsari/Honeybee">هانی‌بی - پلاگین گرس‌هاپر برای اتصال به اوپن‌استودیو، ریدینس، انرژی‌پلاس و دیزیم</a></li>
+	<li><a href="https://github.com/ladybug-analysis-tools/honeybeex">هانی‌بی‌اکس برای گرس ‌هاپر و داینامو </a></li>
+	<li><a href="https://github.com/mostaphaRoudsari/ladybug">لیدی‌باگ - برای طراحی فضاهای اینوایرنمنتال در گرسهاپر</a></li>
+	<li><a href="https://github.com/ladybug-analysis-tools/ladybug-dynamo">لیدی‌باگ برای داینامو</a></li>
   <li><a href="https://github.com/sobhe/hazm/">Hazm - کتابخانه پردازش زبان فارسی هضم در پایتون</a></li>
+  <li><a href="https://github.com/HydraShare/hydra-grasshopper">هیدار برای گرس هاپر</a></li>
   <li><a href="https://github.com/ilius/starcal/">Starcal - برنامه تقویم فارسی استارکل نوشته شده با پایتون</a></li>
   <li><a href="https://pypi.python.org/pypi/Khayyam">Khayyam - کتابخانه تبدیل تاریخ جلالی میلادی خیام در پایتون</a></li>
   <li><a href="https://github.com/slashmili/python-jalali">jdatetime - کتابخانه تبدیل تاریخ جلالی میلادی در پایتون</a></li>
@@ -31,6 +36,9 @@
   <li><a href="https://github.com/mehdisadeghi/SaaghiBot">SaaghiBot - بات اشعار خیام برای تلگرام</a></li>
   <li><a href="https://github.com/mohebifar/angular-persian">angular-persian - ابزارهای فارسی برای آنگولار</a></li>
   <li><a href="https://github.com/mohebifar/lebab">lebab - تبدیل کد ES5 به ES6</a></li>
+  <li><a href="https://github.com/arendelle/marker.js">مارکر.جی‌اس - هایلایتر وب ارندل</a></li>
+  <li><a href="https://github.com/mostaphaRoudsari/epwmap">ای‌پی‌دابلیو مپ - نقشه فایل های آب و هوای وزارت انرژی آمریکا بر روی نقشه جهان</a></li>
+  <li><a href="https://github.com/mostaphaRoudsari/SettlementEmerge">ستلمنت‌امرج - نقشه ای برای تصمیم گیری در جهت احداث های زیست محیطی</a></li>
   <li><a href="https://github.com/babakhani/PersianDate">PersianDate - سیستم parsing, validating, manipulating و formatting تاریخ فارسی</a></li>
   <li><a href="https://github.com/babakhani/pwt.datepicker">pwt.datepicker - ابزار انتخابگر تاریخ</a></li>
   <li><a href="https://github.com/AminRahimi/angular-bootstrap-persian-datepicker">Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار</a></li>
@@ -38,7 +46,23 @@
   <li><a href="https://github.com/kharazi/moujez">moujez - خلاصه‌سازی متن</a></li>
 </ul>
 
+<h2 dir="rtl">کافی‌‌اسکریپت	CoffeeScript</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/arendelle/kai">کای‌ - پکج ارندل برای اتم</a></li>
+</ul>
 
+<h2 dir="rtl">تایپ اسکریپت	TypeScript</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/karyfoundation/comment"> کامنت - جنریتور کامنت های کی-اف-سی-اس</a></li>
+	<li><a href="https://github.com/pmkary/V">وی - ابزاری برای تنظیم ارتفاع دیو های یک ردیف</a></li>
+	<li><a href="https://github.com/alitaheri/react-mixout">میکس آوت - میکیسنگ با اولویت بالاتر</a></li>
+  	<li><a href="https://github.com/sinabakh/arendelle-js-core">کامپایلر ارندل به جاوا اسکریپت برای ارندل ۳</a></li>
+	<li><a href="https://github.com/alitaheri/isomorphic-vm">ایزومورفیک وی ام - دسترسی به نود جی اس از مرورگر</a></li>
+	<li><a href="https://github.com/alitaheri/react-stated">ری‌اکت استیتد - برای انتقال منطق کامپوننت ها به بیرون آن ها</a></li>
+	<li><a href="https://github.com/arendelle/gerda">جردا - اینتلی سنس برای ارندل</a></li>
+	<li><a href="https://github.com/alitaheri/react-warpgate">ری‌اکت رپ‌گیت - ابزاری برای پیمایش اثربری ری‌اکت</a></li>
+	<li><a href="https://github.com/alitaheri/react-memo">ری‌اکت ممو</a></li>
+</ul>
 
 <h2 dir="rtl">پی اچ پی PHP</h2>
 <ul dir="rtl">
@@ -49,7 +73,15 @@
 
 <h2 dir="rtl">روبی Ruby</h2>
 <ul dir="rtl">
+	<li><a href="https://github.com/BHRC/openstudio-standards">مبحث‌۱۹ در اپن استودیو - استاندارد های انرژی ایران برای اوپن‌استودیو</a></li>
+	<li><a href="https://github.com/pmkary/erect">ارکت - نانو بیلد سیستم</a></li>
   <li><a href="https://github.com/aziz/jalalidate">jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی</a></li>
+  <li><a href="https://github.com/arendelle/sketchup-grid-importer">ایمپورتر گرید ارندل برای اسکپ‌آپ</a></li>
+</ul>
+
+<h2 dir="rtl">لوا Lua</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/arendelle/arcco">آرکو - داکیومنشن جنریتور ارندل</a></li>
 </ul>
 
 <h2 dir="rtl">اندروید Android</h2>
@@ -60,9 +92,55 @@
   <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
 </ul>
 
+<h2 dir="rtl">سی شارپ C#</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/HydraShare/hydra-dynamo">هیدار داینامو - برای انتشار مدل های داینامو در وب</a></li>
+	<li><a href="https://github.com/pabloengine/pablo">پابلو - موتور صفحه بندی و لیات </a></li>
+	<li><a href="https://github.com/karyfoundation/framework-base">فریمورک کاری - فریم ورک ویرایش، قالب بندی و شکل دهی به متون</a></li>
+	<li><a href="https://github.com/karyfoundation/intactus">اینتکتوس - کتابخانه تولید نوتیشن ریاضی و چارت با استفاده از متن</a></li>
+	<li><a href="https://github.com/keyvank/i3dml">آی‌تری‌دی‌ام - تریسی در دات نت</a></li>
+	<li><a href="https://github.com/Behrooz-Amoozad/BD2">بی‌دی‌۲ - موتور دیتابیس توضیع شده</a></li>
+	<li><a href="https://github.com/arendelle/arcade">آرکید - اینترپرتر ارندل تا نسخه ۱.۶</a></li>
+	<li><a href="https://github.com/arendelle/cliff">کلیف - فرمتر کد ارندل</a></li>
+	<li><a href="https://github.com/arendelle/gothi">گاثی - تولید کننده متن برای ارندل</a></li>
+	<li><a href="https://github.com/arendelle/marker">مارکر - هایلایتر وب ارندل</a></li>
+	<li><a href="https://github.com/karyfoundation/numerica">نومریکا - تایپ عددی با ظرفیت دلخواه</a></li>
+	<li><a href="https://github.com/karyfoundation/calculat"> NCalcکلکولات - نسخه بهتر شده کتابخانه</a></li>
+	<li><a href="https://github.com/pmkary/series">سریز - یک بازی ترمینالی برای حدث زدن فرمول دنباله ها</a></li>
+	<li><a href="https://github.com/pmkary/loc">لک - خط شمار تحت فریمورک کاری</a></li>
+	<li><a href="https://github.com/pmkary/note">نوت - برنامه یاداشت تحت فریمورک کاری</a></li>
+	<li><a href="https://github.com/pmkary/equer">ایکوئر: تبدیل کننده فرمول به اسکریپت</a></li>
+	<li><a href="https://github.com/pmkary/textfliper"> تکست فیلپر - برای دوباره فارسی کردن نوشته های کپی شده از پی دی اف های ادوبی </a></li>
+	<li><a href="https://github.com/pmkary/binominor">بینومینال - گسترش دهنده بسته نیوتونی</a></li>
+</ul>
+
+<h2 dir="rtl">جاوا Java</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/azinazadi/GraphLab">گرافلب شریف - استودیو تئوری گراف</a></li>
+	<li><a href="https://github.com/farsitel/">فارسیتل - اندروید فارسی</a></li>
+</ul>
+
 <h2 dir="rtl">سی پلاس پلاس C++</h2>
 <ul dir="rtl">
+	<li><a href="https://github.com/mostaphaRoudsari/Butterfly">باترفلای - کانکشن گرسه‌هاپر به اوپن‌فوم</a></li>
+	<li><a href="https://github.com/arendelle/sitron">سیترون - مفسر ارندل ۲.۱۴</a></li>
   <li><a href="https://github.com/m-o-s-t-a-f-a/dana">Dana - ابزاری برای توسعه دانش به روش یادگیری Spaced Repetition</a></li>
+  <lia><a href="https://github.com/keyvank/tracy">تریسی - موتور گرافیک سه بعدی</a></li>
+</ul>
+
+<h2 dir="rtl">سویفت	Swift</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/arendelle/swifty">سویفتی - مفسر سویفت ۲.۱۴</a></li>
+</ul>
+
+<h2 dir="rtl">آبجکتیو-سی Objective-C</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/kkiani/Uninstaller">آن‌اینستالر - برنامه ای برای مدیریت برنامه های مک</a></li>
+</ul>
+
+<h2 dir="rtl">اپل‌اسکریپت AppleScript</h2>
+<ul dir="rtl">
+	<li><a href="https://github.com/pmkary/osx-term-icon">آیکون برای برنامه های شل</a></li>
 </ul>
 
 <h2 dir="rtl">گنو/لینوکس GNU/Linux</h2>
@@ -96,9 +174,14 @@
 
 <h2 dir="rtl">آموزشی</h2>
 <ul dir="rtl">
+	<li><a href="https://github.com/arendelle/book">کتاب زبان ارندل</a></li>
+	<li><a href="https://github.com/mostaphaRoudsari/honeybee-primer">کتاب هانیبی</a></li>
+	<li><a href="https://github.com/mostaphaRoudsari/ladybug-primer">کتاب لیدی‌باگ</a></li>
+	<li><a href="https://github.com/heatstudio/user-guide">کتاب هیت‌استودیو</a></li>
   <li><a href="https://github.com/yazdan/pretotypeit">pretotypeit - کتاب پیش‌نمونه سازی</a></li>
   <li><a href="https://github.com/shervinafshar/Persian-HIG">Persian-HIG - آیین‌نامهٔ طرّاحی میانای کاربر گرافیکی فارسی</a></li>
   <li><a href="https://github.com/khajavi/Practical-Design-Patterns">Practical-Design-Patterns - مجموعه ای کامل از الگوهای طراحی</a></li>
+  <li><a href=""></a></li>
 </ul>
 
 <h2 dir="rtl">سایر</h2>
