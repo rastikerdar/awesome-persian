@@ -17,6 +17,7 @@
   <li><a href="https://github.com/5j9/wikitextparser">wikitextparser - wikitext یک ابزار پایتونی تجزیه کننده</a></li>
   <li><a href="https://github.com/vahit/pep8-per">pep8-per - آموزش Python PEP8 به زبان آدمیزاد</a></li>
   <li><a href="https://github.com/5j9/number2farsiword">number2farsiword - تبدیل عدد به واژه فارسی</a></li>
+  <li><a href="https://github.com/mamal72/telegram-iranbot">telegram-iranbot - یک بات ساده برای تلگرام با کارکرد ترجمه انگلیسی به فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">جاواسکریپت Javascript</h2>
@@ -38,6 +39,13 @@
   <li><a href="https://github.com/sobhe/moratab">moratab - تسهیل ویرایش متون markdown </a></li>
   <li><a href="https://github.com/kharazi/moujez">moujez - خلاصه‌سازی متن</a></li>
   <li><a href="https://github.com/imasood/nbpersian">nbpersian - کتاب Node.js برای مبتدی‌ها</a></li>
+  <li><a href="https://github.com/mohebifar/chemozart">chemozart - مدلساز و ویرایشگر سه بعدی مولکولی مبتنی بر وب</a></li>
+  <li><a href="https://github.com/mamal72/telegram-github-search-bot">telegram-github-search-bot - بات جستجوی گیت هاب برای تلگرام</a></li>
+  <li><a href="https://github.com/mohebifar/react-persian">react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی</a></li>
+  <li><a href="https://github.com/mohebifar/react-persian-datepicker">react-persian-datepicker - انتخابگر تاریخ فارسی برای React</a></li>
+  <li><a href="https://github.com/mamal72/react-github">react-github - یک مجموعه از کامپوننت های React برای گیتهاب</a></li>
+  <li><a href="https://github.com/mamal72/electron-jalali-calendar">electron-jalali-calendar - Electron و React منوبار تقویم جلالی ساخته شده با </a></li>
+
 </ul>
 
 
