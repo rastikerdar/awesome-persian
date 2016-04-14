@@ -76,6 +76,7 @@
   <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
   <li><a href="https://github.com/mohamad-amin/PersianMaterialDateTimePicker">PersianMaterialDateTimePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
   <li><a href="https://github.com/alirezaafkar/SunDatePicker">SunDatePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
+  <li><a href="https://github.com/NileGroup/Meikade">Persian poem application - مجموعهٔ شعر فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">سی پلاس پلاس C++</h2>
@@ -87,6 +88,7 @@
 <ul dir="rtl">
   <li><a href="https://github.com/jadijadi/linuxandlife">linuxandlife - کتاب راهنمای لینوکس و زندگی</a></li>
   <li><a href="http://wiki.linuxreview.ir/Shell-scripting-tutorial">راهنمای شِل اسکریپتینگ (برنامه‌نویسی خط فرمان لینوکس)</a></li>
+  <li><a href="https://github.com/ashkang/jcal">Jalali Calendar Library - کتابخانهٔ تقویم جلالی</a></li>
 </ul>
 
 <h2 dir="rtl">فونت</h2>
@@ -112,6 +114,7 @@
   <li><a href="http://tehlug.ir">Tehlug - گروه کاربران گنو/لینوکس تهران</a></li>
   <li><a href="http://www.karajlug.org/">Karajlug - گروه کاربران لینوکس کرج</a></li>
   <li><a href="https://shirazlug.ir/">Shirazlug - گروه کاربران گنو/لینوکس شیراز</a></li>
+  <li><a href="https://wiki.lfkf.org/"> FKF - بنیاد دانش آزاد</a></li>
 </ul>
 
 <h2 dir="rtl">آموزشی</h2>
