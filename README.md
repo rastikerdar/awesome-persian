@@ -44,7 +44,7 @@
   <li><a href="https://github.com/mohebifar/react-persian">react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی</a></li>
   <li><a href="https://github.com/mohebifar/react-persian-datepicker">react-persian-datepicker - انتخابگر تاریخ فارسی برای React</a></li>
   <li><a href="https://github.com/mamal72/react-github">react-github - یک مجموعه از کامپوننت های React برای گیتهاب</a></li>
-  <li><a href="https://github.com/mamal72/electron-jalali-calendar">electron-jalali-calendar - Electron و React منوبار تقویم جلالی ساخته شده با </a></li>
+  <li><a href="https://github.com/mamal72/electron-jalali-calendar">electron-jalali-calendar - منوبار تقویم جلالی ساخته شده با Electron و React </a></li>
 
 </ul>
 
@@ -74,8 +74,8 @@
   <li><a href="https://github.com/alibehzadian/PersianDatePicker">PersianDatePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
   <li><a href="https://github.com/MasoodFallahpoor/TehranBrt">TehranBrt - برنامه نمایش مسیرها و ایستگاه‌های بی آر تی تهران</a></li>
   <li><a href="https://github.com/MasoodFallahpoor/InfoCenter">InfoCenter - برنامه نمایش اطلاعات سخت افزاری گوشی/تبلت اندرویدی</a></li>
-  <li><a href="https://github.com/mohamad-amin/PersianMaterialDateTimePicker">PersianMaterialDateTimePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
-  <li><a href="https://github.com/alirezaafkar/SunDatePicker">SunDatePicker - کتابخانه انتخابگر تاریخ فارسیی</a></li>
+  <li><a href="https://github.com/mohamad-amin/PersianMaterialDateTimePicker">PersianMaterialDateTimePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
+  <li><a href="https://github.com/alirezaafkar/SunDatePicker">SunDatePicker - کتابخانه انتخابگر تاریخ فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">سی پلاس پلاس C++</h2>
@@ -119,6 +119,7 @@
   <li><a href="https://github.com/yazdan/pretotypeit">pretotypeit - کتاب پیش‌نمونه سازی</a></li>
   <li><a href="https://github.com/shervinafshar/Persian-HIG">Persian-HIG - آیین‌نامهٔ طرّاحی میانای کاربر گرافیکی فارسی</a></li>
   <li><a href="https://github.com/khajavi/Practical-Design-Patterns">Practical-Design-Patterns - مجموعه ای کامل از الگوهای طراحی</a></li>
+  <li><a href="https://github.com/MasoodFallahpoor/DS-Book">DS-Book - کتاب پرسش و پاسخ داده ساختارها</a></li>
 </ul>
 
 <h2 dir="rtl">سایر</h2>
