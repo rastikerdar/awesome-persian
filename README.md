@@ -3,21 +3,21 @@
 خواهشمند است لینک‌های **ایرانی** در زمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینک‌های-ایرانی-توسعه-و-طراحی)
-  * [پایتون](#پایتون)
-  * [جاوااسکریپت](#جاواسکریپت)
-  * [پی اچ پی](#PHP)
-  * [روبی](#Ruby)
-  * [جاوا](#Java)
-  * [اندروید](#Android) 
-  * [سی پلاس پلاس](#C++)
-  * [گنو/لینوکس](#GNU/Linux)
+  * [پایتون](#پایتون-python)
+  * [جاوااسکریپت](#جاواسکریپت-javascript)
+  * [پی اچ پی](#پی-اچ-پی-php)
+  * [روبی](#روبی-ruby)
+  * [جاوا](#جاوا-java)
+  * [اندروید](#اندروید-android) 
+  * [سی پلاس پلاس](#سی-پلاس-پلاس-c)
+  * [گنو/لینوکس](#گنولینوکس-gnulinux)
   * [فونت](#فونت)
   *  [قالب](#قالب)
   *  [گروه‌ها](#گروه‌ها)
   *  [آموزشی](#آموزشی)
   *  [سایر](#سایر)
 
-## Python
+## پایتون Python
 
 + [PlainTasks - پلاگین todo-list برای ویرایشگر sublime](https://github.com/aziz/PlainTasks)
 + [PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف](https://github.com/ilius/pyglossary)
@@ -35,7 +35,7 @@
 + [number2farsiword - تبدیل عدد به واژه فارسی](https://github.com/5j9/number2farsiword)
 + [telegram-iranbot - یک بات ساده برای تلگرام با کارکرد ترجمه انگلیسی به فارسی](https://github.com/mamal72/telegram-iranbot)
 
-## Javascript
+## جاواسکریپت Javascript
 
 + [persian.js - کتابخانه ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 + [rial.js - کتابخانه ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
@@ -61,8 +61,9 @@
 + [react-github - یک مجموعه از کامپوننت های React برای گیتهاب](https://github.com/mamal72/react-github)
 + [electron-jalali-calendar - منوبار تقویم جلالی ساخته شده با Electron و React](https://github.com/mamal72/electron-jalali-calendar)
 + [jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس](https://github.com/jalaali/jalaali-js)
++ [Iran - Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
 
-## PHP
+## پی اچ پی PHP
 
 + [jDateTime - کتابخانه تبدیل تاریخ جلالی میلادی در php](https://github.com/sallar/jDateTime)
 + [jalali - تسهیل کار با تایخ ایرانی شمسی جلالی در برنامه های لاراول 5](https://github.com/morilog/jalali)
@@ -70,15 +71,15 @@
 + [پکیج کار با درگاه های بانکی](https://github.com/PoolPort/PoolPort)
 + [popcorn - یک API برای دریافت اطلاعات فیلم و سریال](https://github.com/iazami/popcorn)
 
-## Ruby
+## روبی Ruby
 
 + [jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی](https://github.com/aziz/jalalidate)
 
-## Java
+## جاوا Java
 
 + [PersianDT - کتابخانه تاریخ شمسی](https://github.com/abbashosseini/PersianDT)
 
-## Android
+## اندروید Android
 
 + [DroidPersianCalendar - برنامه تقویم فارسی اندروید](https://github.com/ebraminio/DroidPersianCalendar)
 + [PersianDatePicker - کتابخانه انتخابگر تاریخ فارسی](https://github.com/alibehzadian/PersianDatePicker)
@@ -88,11 +89,11 @@
 + [SunDatePicker - کتابخانه انتخابگر تاریخ فارسی](https://github.com/alirezaafkar/SunDatePicker)
 + [Persian poem application - مجموعهٔ شعر فارسی](https://github.com/NileGroup/Meikade)
 
-## C++
+## سی پلاس پلاس C++
 
 + [Dana - ابزاری برای توسعه دانش به روش یادگیری Spaced Repetition](https://github.com/m-o-s-t-a-f-a/dana)
 
-## GNU/Linux
+## گنو/لینوکس GNU/Linux
 
 + [linuxandlife - کتاب راهنمای لینوکس و زندگی](https://github.com/jadijadi/linuxandlife)
 + [راهنمای شِل اسکریپتینگ (برنامه‌نویسی خط فرمان لینوکس)](http://wiki.linuxreview.ir/Shell-scripting-tutorial)
@@ -115,12 +116,12 @@
 
 ## گروه‌ها
 
-+ [Tehpug - گروه کاربران پایتون تهران](http://tehpug.ir)
-+ [Tehlug - گروه کاربران گنو/لینوکس تهران](http://tehlug.ir)
-+ [Karajlug - گروه کاربران لینوکس کرج](http://www.karajlug.org)
-+ [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir)
-+ [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org)
-+ [nodejs-fa - جامعه ند فارسی](http://nodejs.ir)
++ [Tehpug - گروه کاربران پایتون تهران](http://tehpug.ir/)
++ [Tehlug - گروه کاربران گنو/لینوکس تهران](http://tehlug.ir/)
++ [Karajlug - گروه کاربران لینوکس کرج](http://www.karajlug.org/)
++ [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir/)
++ [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/)
++ [Node.js Persian Community - جامعه ند فارسی](http://nodejs.ir/)
 
 ## آموزشی
 
@@ -128,6 +129,7 @@
 + [Persian-HIG - آیین‌نامهٔ طرّاحی میانای کاربر گرافیکی فارسی](https://github.com/shervinafshar/Persian-HIG)
 + [Practical-Design-Patterns - مجموعه ای کامل از الگوهای طراحی](https://github.com/khajavi/Practical-Design-Patterns)
 + [DS-Book - کتاب پرسش و پاسخ داده ساختارها](https://github.com/MasoodFallahpoor/DS-Book)
++ [مجله سلام دنیا](http://salam-donya.com/)
 
 ## سایر
 
@@ -137,7 +139,6 @@
 + [persian-stopwords - لیست کلمات ایست فارسی](https://github.com/kharazi/persian-stopwords)
 + [marhale3.github.io - پروجکت اویلر فارسی](https://github.com/marhale3/marhale3.github.io)
 + [rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران](https://github.com/IKAcc/RangeBrand)
-+ [Administrative divisions of Iran - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
 
 در صورتی که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه نگاری فرمایید.
 
