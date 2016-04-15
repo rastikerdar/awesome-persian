@@ -45,6 +45,7 @@
   <li><a href="https://github.com/mohebifar/react-persian-datepicker">react-persian-datepicker - انتخابگر تاریخ فارسی برای React</a></li>
   <li><a href="https://github.com/mamal72/react-github">react-github - یک مجموعه از کامپوننت های React برای گیتهاب</a></li>
   <li><a href="https://github.com/mamal72/electron-jalali-calendar">electron-jalali-calendar - منوبار تقویم جلالی ساخته شده با Electron و React </a></li>
+  <li><a href="https://github.com/jalaali/jalaali-js">jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس</a></li>
 
 </ul>
 
@@ -56,6 +57,7 @@
   <li><a href="https://github.com/morilog/jalali">jalali - تسهیل کار با تایخ ایرانی شمسی جلالی در برنامه های لاراول 5</a></li>
   <li><a href="https://github.com/morilog/parsi-payment">parsi-payment - بسته پردازش درگاه برای سیستم شتاب ایران</a></li>
   <li><a href="https://github.com/PoolPort/PoolPort">پکیج کار با درگاه های بانکی</a></li>
+  <li><a href="https://github.com/iazami/popcorn">popcorn - یک API برای دریافت اطلاعات فیلم و سریال</a></li>
 </ul>
 
 <h2 dir="rtl">روبی Ruby</h2>
@@ -133,6 +135,7 @@
   <li><a href="https://github.com/kharazi/persian-stopwords">persian-stopwords - لیست کلمات ایست فارسی</a></li>
   <li><a href="https://github.com/marhale3/marhale3.github.io">marhale3.github.io - پروجکت اویلر فارسی</a></li>
   <li><a href="https://github.com/IKAcc/RangeBrand">rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران</a></li>
+  <li><a href="https://github.com/arastu/iran">Administrative divisions of Iran - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال</a></li>
 </ul>
 
 
