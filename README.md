@@ -3,21 +3,21 @@
 خواهشمند است لینک‌های **ایرانی** در زمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینک‌های-ایرانی-توسعه-و-طراحی)
-  * [پایتون](#پایتون-Python)
-  * [جاوااسکریپت](#جاواسکریپت-Javascript)
-  * [پی اچ پی](#پی-اچ-پی-PHP)
-  * [روبی](#روبی-Ruby)
-  * [جاوا](#جاوا-Java)
-  * [اندروید](#اندروید-Android) 
-  * [سی پلاس پلاس](#سی-پلاس-پلاس-C++)
-  * [گنو/لینوکس](#گنو/لینوکس-GNU/Linux)
+  * [پایتون](#پایتون)
+  * [جاوااسکریپت](#جاواسکریپت)
+  * [پی اچ پی](#PHP)
+  * [روبی](#Ruby)
+  * [جاوا](#Java)
+  * [اندروید](#Android) 
+  * [سی پلاس پلاس](#C++)
+  * [گنو/لینوکس](#GNU/Linux)
   * [فونت](#فونت)
   *  [قالب](#قالب)
   *  [گروه‌ها](#گروه‌ها)
   *  [آموزشی](#آموزشی)
   *  [سایر](#سایر)
 
-## پایتون Python
+## Python
 
 + [PlainTasks - پلاگین todo-list برای ویرایشگر sublime](https://github.com/aziz/PlainTasks)
 + [PyGlossary - کامل‌ترین ابزار تبدیل فایل‌های دیکشنری (گلاسری) با فرمت‌های مختلف](https://github.com/ilius/pyglossary)
@@ -35,7 +35,7 @@
 + [number2farsiword - تبدیل عدد به واژه فارسی](https://github.com/5j9/number2farsiword)
 + [telegram-iranbot - یک بات ساده برای تلگرام با کارکرد ترجمه انگلیسی به فارسی](https://github.com/mamal72/telegram-iranbot)
 
-## جاواسکریپت Javascript
+## Javascript
 
 + [persian.js - کتابخانه ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 + [rial.js - کتابخانه ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
@@ -62,7 +62,7 @@
 + [electron-jalali-calendar - منوبار تقویم جلالی ساخته شده با Electron و React](https://github.com/mamal72/electron-jalali-calendar)
 + [jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس](https://github.com/jalaali/jalaali-js)
 
-## پی اچ پی PHP
+## PHP
 
 + [jDateTime - کتابخانه تبدیل تاریخ جلالی میلادی در php](https://github.com/sallar/jDateTime)
 + [jalali - تسهیل کار با تایخ ایرانی شمسی جلالی در برنامه های لاراول 5](https://github.com/morilog/jalali)
@@ -70,15 +70,15 @@
 + [پکیج کار با درگاه های بانکی](https://github.com/PoolPort/PoolPort)
 + [popcorn - یک API برای دریافت اطلاعات فیلم و سریال](https://github.com/iazami/popcorn)
 
-## روبی Ruby
+## Ruby
 
 + [jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی](https://github.com/aziz/jalalidate)
 
-## جاوا Java
+## Java
 
 + [PersianDT - کتابخانه تاریخ شمسی](https://github.com/abbashosseini/PersianDT)
 
-## اندروید Android
+## Android
 
 + [DroidPersianCalendar - برنامه تقویم فارسی اندروید](https://github.com/ebraminio/DroidPersianCalendar)
 + [PersianDatePicker - کتابخانه انتخابگر تاریخ فارسی](https://github.com/alibehzadian/PersianDatePicker)
@@ -88,11 +88,11 @@
 + [SunDatePicker - کتابخانه انتخابگر تاریخ فارسی](https://github.com/alirezaafkar/SunDatePicker)
 + [Persian poem application - مجموعهٔ شعر فارسی](https://github.com/NileGroup/Meikade)
 
-## سی پلاس پلاس C++
+## C++
 
 + [Dana - ابزاری برای توسعه دانش به روش یادگیری Spaced Repetition](https://github.com/m-o-s-t-a-f-a/dana)
 
-## گنو/لینوکس GNU/Linux
+## GNU/Linux
 
 + [linuxandlife - کتاب راهنمای لینوکس و زندگی](https://github.com/jadijadi/linuxandlife)
 + [راهنمای شِل اسکریپتینگ (برنامه‌نویسی خط فرمان لینوکس)](http://wiki.linuxreview.ir/Shell-scripting-tutorial)
@@ -120,6 +120,7 @@
 + [Karajlug - گروه کاربران لینوکس کرج](http://www.karajlug.org)
 + [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir)
 + [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org)
++ [nodejs-fa - جامعه ند فارسی](http://nodejs.ir)
 
 ## آموزشی
 
