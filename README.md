@@ -118,6 +118,7 @@
   <li><a href="http://www.karajlug.org/">Karajlug - گروه کاربران لینوکس کرج</a></li>
   <li><a href="https://shirazlug.ir/">Shirazlug - گروه کاربران گنو/لینوکس شیراز</a></li>
   <li><a href="https://wiki.lfkf.org/"> FKF - بنیاد دانش آزاد</a></li>
+  <li><a href="http://nodejs.ir">Node.js Persian Community - جامعه ند فارسی</a></li>
 </ul>
 
 <h2 dir="rtl">آموزشی</h2>
