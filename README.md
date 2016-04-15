@@ -125,7 +125,8 @@
   <li><a href="https://github.com/yazdan/pretotypeit">pretotypeit - کتاب پیش‌نمونه سازی</a></li>
   <li><a href="https://github.com/shervinafshar/Persian-HIG">Persian-HIG - آیین‌نامهٔ طرّاحی میانای کاربر گرافیکی فارسی</a></li>
   <li><a href="https://github.com/khajavi/Practical-Design-Patterns">Practical-Design-Patterns - مجموعه ای کامل از الگوهای طراحی</a></li>
-  <li><a href="https://github.com/MasoodFallahpoor/DS-Book">DS-Book - کتاب پرسش و پاسخ داده ساختارها</a></li>
+  <li><a href="https://github.com/MasoodFallahpoor/DS-Book">DS-Book - کتاب پرسش و پاسخ داده ساختارها</a></li>  
+  <li><a href="http://salam-donya.com/">مجله سلام دنیا</a></li>
 </ul>
 
 <h2 dir="rtl">سایر</h2>
@@ -136,7 +137,6 @@
   <li><a href="https://github.com/kharazi/persian-stopwords">persian-stopwords - لیست کلمات ایست فارسی</a></li>
   <li><a href="https://github.com/marhale3/marhale3.github.io">marhale3.github.io - پروجکت اویلر فارسی</a></li>
   <li><a href="https://github.com/IKAcc/RangeBrand">rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران</a></li>
-  <li><a href="https://github.com/arastu/iran">Administrative divisions of Iran - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال</a></li>
 </ul>
 
 
