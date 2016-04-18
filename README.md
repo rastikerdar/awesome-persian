@@ -146,6 +146,7 @@
 * [marhale3.github.io - پروجکت اویلر فارسی](https://github.com/marhale3/marhale3.github.io)
 * [rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران](https://github.com/IKAcc/RangeBrand)
 * [iran-cities - استان‌های ایران به‌صورت تفکیک‌شده در قالب جی‌سان](https://github.com/sijad/iran-cities)
+* [لیست کلمات فارسی](https://sourceforge.net/projects/virastyar/files/Data/1.3.1/)
 
 
  درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
