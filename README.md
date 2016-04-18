@@ -123,7 +123,7 @@
 ## گروه‌ها
 
 * [Tehpug - گروه کاربران پایتون تهران](http://tehpug.ir/)
-* [Tehlug - گروه کاربران گنو/لینوکس تهران](http://tehlug.ir/)
+* [Tehlug - گروه کاربران گنو/لینوکس تهران](http://tehlug.org/)
 * [Karajlug - گروه کاربران لینوکس کرج](http://www.karajlug.org/)
 * [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir/)
 * [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/)
