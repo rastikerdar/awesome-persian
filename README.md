@@ -41,7 +41,7 @@
 * [ladybug - لیدی‌باگ - برای طراحی فضاهای اینوایرنمنتال در گرسهاپر](https://github.com/mostaphaRoudsari/ladybug)
 * [ladybug-dynamo - لیدی‌باگ برای داینامو](https://github.com/ladybug-analysis-tools/ladybug-dynamo)
 * [hydra-grasshopper - هیدار برای گرس هاپر](https://github.com/HydraShare/hydra-grasshopper)
-
+* [fonttools - کتابخانه ای برای ویرایش فونت ها در پایتون](https://github.com/behdad/fonttools)
 ## جاواسکریپت Javascript
 
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
@@ -112,6 +112,8 @@
 * [Dana - ابزاری برای توسعه دانش به روش یادگیری Spaced Repetition](https://github.com/m-o-s-t-a-f-a/dana)
 * [Butterfly - باترفلای - کانکشن گرسه‌هاپر به اوپن‌فوم](https://github.com/mostaphaRoudsari/Butterfly)
 * [tracy - تریسی - موتور گرافیک سه بعدی](https://github.com/keyvank/tracy)
+* [harfbuzz - کتابخانه text shaping](https://github.com/behdad/harfbuzz)
+
 
 ## سی شارپ C#
 * [hydra-dynamo - هیدار داینامو - برای انتشار مدل های داینامو در وب](https://github.com/HydraShare/hydra-dynamo)
@@ -169,11 +171,12 @@
 ## فونت
 
 * [IranOpenFontGroup - گروه فونت آزاد ایران](https://github.com/IranOpenFontGroup)
-* [Pfont - قلم آزاد فارسی](https://github.com/pfont/pfont)
-* [Nika - قلم نیکا](https://github.com/font-store/font-nika)
+* [pfont - قلم آزاد فارسی](https://github.com/pfont/pfont)
+* [font-nika - قلم نیکا](https://github.com/font-store/font-nika)
 * [appa-sariicon - مجموعه‌ای از ۱۴۷ وب‌آیکون برای اپ‌موبایل و وب](https://github.com/sariina/appa-sariicon)
 * [RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی](https://github.com/font-store/font-nika)
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
+* [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
 
 ## قالب
 
