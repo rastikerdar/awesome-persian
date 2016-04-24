@@ -16,6 +16,7 @@
   * [قالب](#قالب)
   * [گروه‌ها](#گروه‌ها)
   * [آموزشی](#آموزشی)
+  * [ادیتور](#ادیتور)
   * [سایر](#سایر)
 
 ## پایتون Python
@@ -204,6 +205,10 @@
 * [honeybee-primer - کتاب هانیبی](https://github.com/mostaphaRoudsari/honeybee-primer)
 * [ladybug-primer - کتاب لیدی‌باگ](https://github.com/mostaphaRoudsari/ladybug-primer)
 * [user-guide - کتاب هیت‌استودیو](https://github.com/heatstudio/user-guide)
+
+## ادیتور
+
+* [FG42 - توزیعی برپایه ایمکس برای تازه کارها](http://fg42.lxsameer.com/)
 
 ## سایر
 
