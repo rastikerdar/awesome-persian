@@ -192,6 +192,7 @@
 * [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir/)
 * [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/)
 * [Node.js Persian Community - جامعه نُد فارسی](http://nodejs.ir/)
+* [IranOnRails - ایران آن ریلز](http://iranonrails.ir/)
 
 ## آموزشی
 
