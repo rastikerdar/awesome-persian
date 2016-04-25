@@ -43,6 +43,7 @@
 * [ladybug-dynamo - لیدی‌باگ برای داینامو](https://github.com/ladybug-analysis-tools/ladybug-dynamo)
 * [hydra-grasshopper - هیدار برای گرس هاپر](https://github.com/HydraShare/hydra-grasshopper)
 * [fonttools - کتابخانه ای برای ویرایش فونت ها در پایتون](https://github.com/behdad/fonttools)
+
 ## جاواسکریپت Javascript
 
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
@@ -205,6 +206,7 @@
 * [honeybee-primer - کتاب هانیبی](https://github.com/mostaphaRoudsari/honeybee-primer)
 * [ladybug-primer - کتاب لیدی‌باگ](https://github.com/mostaphaRoudsari/ladybug-primer)
 * [user-guide - کتاب هیت‌استودیو](https://github.com/heatstudio/user-guide)
+* [Python Meta Link - لیستی از منابع (فارسی) پایتون](http://gg.gg/pythonmetalink)
 
 ## ادیتور
 
