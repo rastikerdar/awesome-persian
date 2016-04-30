@@ -73,6 +73,7 @@
 * [Iran - Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
 * [epwmap - ای‌پی‌دابلیو مپ - نقشه فایل های آب و هوای وزارت انرژی آمریکا بر روی نقشه جهان](https://github.com/mostaphaRoudsari/epwmap)
 * [SettlementEmerge - ستلمنت‌امرج - نقشه ای برای تصمیم گیری در جهت احداث های زیست محیطی](https://github.com/mostaphaRoudsari/SettlementEmerge)
+ * [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
 
 ## پی اچ پی PHP
 
@@ -211,6 +212,7 @@
 ## ادیتور
 
 * [FG42 - توزیعی برپایه ایمکس برای تازه کارها](http://fg42.lxsameer.com/)
+* [Minimalist - ویرایشگر مارک‌داون برای متون فارسی](https://github.com/brothersincode/minimalist)
 
 ## سایر
 
