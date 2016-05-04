@@ -197,6 +197,7 @@
 * [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/)
 * [Node.js Persian Community - جامعه نُد فارسی](http://nodejs.ir/)
 * [IranOnRails - ایران آن ریلز](http://iranonrails.ir/)
+* [Laratalks - جامعه لاراول ایران](http://laratalks.com/)
 
 ## آموزشی
 
