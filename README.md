@@ -60,6 +60,7 @@
 * [PersianDate - سیستم parsing, validating, manipulating و formatting تاریخ فارسی](https://github.com/babakhani/PersianDate)
 * [pwt.datepicker - ابزار انتخاب‌گر تاریخ](https://github.com/babakhani/pwt.datepicker)
 * [Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار](https://github.com/AminRahimi/angular-bootstrap-persian-datepicker)
+* [Twitter Bootstrap Jalali Datepicker - تقویم شمسی برای توییتر بوت استرپ](https://github.com/mousavian/bootstrap-jalali-datepicker)
 * [moratab - تسهیل ویرایش متون markdown](https://github.com/sobhe/moratab)
 * [moujez - خلاصه‌سازی متن](https://github.com/kharazi/moujez)
 * [nbpersian - کتاب Node.js برای مبتدی‌ها](https://github.com/imasood/nbpersian)
