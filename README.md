@@ -74,7 +74,7 @@
 * [Iran - Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
 * [epwmap - ای‌پی‌دابلیو مپ - نقشه فایل های آب و هوای وزارت انرژی آمریکا بر روی نقشه جهان](https://github.com/mostaphaRoudsari/epwmap)
 * [SettlementEmerge - ستلمنت‌امرج - نقشه ای برای تصمیم گیری در جهت احداث های زیست محیطی](https://github.com/mostaphaRoudsari/SettlementEmerge)
- * [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
+* [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
 
 ## پی اچ پی PHP
 
@@ -228,6 +228,7 @@
 * [iran-cities - استان‌های ایران به‌صورت تفکیک‌شده در قالب جی‌سان](https://github.com/sijad/iran-cities)
 * [لیست کلمات فارسی](https://sourceforge.net/projects/virastyar/files/Data/1.3.1/)
 * [Sanam Style Convention - کانونشن نوشتن CSS](https://github.com/smbeiragh/sanam)
+* [iran-states-and-cities-json-and-sql-including-area-coordinations - شهرها و استان ها در فرمت های sql و json](https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations)
 
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
