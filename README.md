@@ -1,4 +1,4 @@
-# لینک‌های ایرانی توسعه و طراحی
+﻿# لینک‌های ایرانی توسعه و طراحی
 
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
@@ -229,7 +229,7 @@
 * [لیست کلمات فارسی](https://sourceforge.net/projects/virastyar/files/Data/1.3.1/)
 * [Sanam Style Convention - کانونشن نوشتن CSS](https://github.com/smbeiragh/sanam)
 * [iran-states-and-cities-json-and-sql-including-area-coordinations - شهرها و استان ها در فرمت های sql و json](https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations)
-
+* [Iranian IT Bloggers - لیستی از خوراک‌های بلاگ‌های آی‌تی و برنامه نویسی ایرانی](https://github.com/VahidN/IranianITBloggers)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
