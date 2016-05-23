@@ -134,6 +134,7 @@
 * [equer - ایکوئر: تبدیل کننده فرمول به اسکریپت](https://github.com/pmkary/equer)
 * [textfliper -  تکست فیلپر - برای دوباره فارسی کردن نوشته های کپی شده از پی دی اف های ادوبی ](https://github.com/pmkary/textfliper)
 * [binominor - بینومینال - گسترش دهنده بسته نیوتونی](https://github.com/pmkary/binominor)
+* [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 
 ## آبجکتیو-سی Objective-C
 * [Uninstaller - آن‌اینستالر - برنامه ای برای مدیریت برنامه های مک](https://github.com/kkiani/Uninstaller)
