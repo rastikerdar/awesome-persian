@@ -234,6 +234,7 @@
 * [iran-states-and-cities-json-and-sql-including-area-coordinations - شهرها و استان ها در فرمت های sql و json](https://github.com/pesarkhobeee/iran-states-and-cities-json-and-sql-including-area-coordinations)
 * [Iranian IT Bloggers - لیستی از خوراک‌های بلاگ‌های آی‌تی و برنامه نویسی ایرانی](https://github.com/VahidN/IranianITBloggers)
 * [محتوای ساختگی به زبان فارسی برای وردپرس](https://github.com/iazami/persian-dummy-content)
+* [tehran-map - نقشه تهران به صورت برداری برای محلات مختلف](https://github.com/mehdimeskin/tehran-map)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
