@@ -213,6 +213,7 @@
 * [ladybug-primer - کتاب لیدی‌باگ](https://github.com/mostaphaRoudsari/ladybug-primer)
 * [user-guide - کتاب هیت‌استودیو](https://github.com/heatstudio/user-guide)
 * [Python Meta Link - لیستی از منابع (فارسی) پایتون](http://gg.gg/pythonmetalink)
+* [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/فارسی)
 
 ## ادیتور
 
