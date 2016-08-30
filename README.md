@@ -2,6 +2,13 @@
 
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
+این دو لیست خوب را هم ببینید:
+
+[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
+
+[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
+
+
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
   * [جاوااسکریپت](#جاواسکریپت-javascript)
