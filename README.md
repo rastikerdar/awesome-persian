@@ -162,6 +162,7 @@
 * [react-stated - ری‌اکت استیتد - برای انتقال منطق کامپوننت ها به بیرون آن ها](https://github.com/alitaheri/react-stated)
 * [react-warpgate - ری‌اکت رپ‌گیت - ابزاری برای پیمایش اثربری ری‌اکت](https://github.com/alitaheri/react-warpgate)
 * [react-memo - ری‌اکت ممو](https://github.com/alitaheri/react-memo)
+* [ts-jalaali - توابع کمکی تاریخ شمسی](https://github.com/sijad/ts-jalaali)
 
 ## ارندل arendelle
 
@@ -195,7 +196,7 @@
 * [RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی](https://github.com/font-store/font-nika)
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
-* [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی ](https://github.com/ikacc/gorbeh/) 
+* [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی ](https://github.com/ikacc/gorbeh/)
 
 ## قالب
 
