@@ -72,8 +72,8 @@
 * [nbpersian - کتاب Node.js برای مبتدی‌ها](https://github.com/imasood/nbpersian)
 * [chemozart - مدل‌ساز و ویرایشگر سه بعدی مولکولی مبتنی بر وب](https://github.com/mohebifar/chemozart)
 * [telegram-github-search-bot - بات جستجوی گیت‌هاب برای تلگرام](https://github.com/mamal72/telegram-github-search-bot)
-* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/mohebifar/react-persian)
-* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/mohebifar/react-persian-datepicker)
+* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
+* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [electron-jalali-calendar - منوبار تقویم جلالی ساخته‌شده با Electron و React](https://github.com/mamal72/electron-jalali-calendar)
 * [jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس](https://github.com/jalaali/jalaali-js)
@@ -95,7 +95,7 @@
 ## روبی Ruby
 
 * [jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی](https://github.com/aziz/jalalidate)
-* [openstudio-standards - مبحث‌۱۹ در اپن استودیو - استاندارد های انرژی ایران برای اوپن‌استودیو](https://github.com/BHRC/openstudio-standards)
+* [openstudio-standards - مبحث‌۱۹ در اپن استودیو - استاندارد های انرژی ایران برای اوپن‌استودیو](https://github.com/karyfoundation/openstudio-standards)
 * [erect - ارکت - نانو بیلد سیستم](https://github.com/pmkary/erect)
 
 ## جاوا Java
@@ -164,20 +164,19 @@
 
 ## ارندل arendelle
 
-* [marker.js - مارکر.جی‌اس - هایلایتر وب ارندل](https://github.com/arendelle/marker.js)
-* [marker.js - مارکر.جی‌اس - هایلایتر وب ارندل](https://github.com/arendelle/marker.js)
-* [kai - کای‌ - پکج ارندل برای اتم](https://github.com/arendelle/kai)
+* [marker.js - مارکر.جی‌اس - هایلایتر وب ارندل](https://github.com/karyfoundation/marker.js)
+* [kai - کای‌ - پکج ارندل برای اتم](https://github.com/karyfoundation/kai)
 * [arendelle-js-core - کامپایلر ارندل به جاوا اسکریپت برای ارندل ۳](https://github.com/sinabakh/arendelle-js-core)
-* [gerda - جردا - اینتلی سنس برای ارندل](https://github.com/arendelle/gerda)
-* [sketchup-grid-importer - ایمپورتر گرید ارندل برای اسکپ‌آپ](https://github.com/arendelle/sketchup-grid-importer)
-* [arcco - آرکو - داکیومنشن جنریتور ارندل](https://github.com/arendelle/arcco)
-* [arcade - آرکید - اینترپرتر ارندل تا نسخه ۱.۶](https://github.com/arendelle/arcade)
-* [cliff - کلیف - فرمتر کد ارندل](https://github.com/arendelle/cliff)
-* [gothi - گاثی - تولید کننده متن برای ارندل](https://github.com/arendelle/gothi)
-* [marker - مارکر - هایلایتر وب ارندل](https://github.com/arendelle/marker)
-* [sitron - سیترون - مفسر ارندل ۲.۱۴](https://github.com/arendelle/sitron)
-* [book - کتاب زبان ارندل](https://github.com/arendelle/book)
-* [swifty - سویفتی - مفسر سویفت ۲.۱۴](https://github.com/arendelle/swifty)
+* [gerda - جردا - اینتلی سنس برای ارندل](https://github.com/karyfoundation/gerda)
+* [sketchup-grid-importer - ایمپورتر گرید ارندل برای اسکپ‌آپ](https://github.com/karyfoundation/sketchup-grid-importer)
+* [arcco - آرکو - داکیومنشن جنریتور ارندل](https://github.com/karyfoundation/arcco)
+* [arcade - آرکید - اینترپرتر ارندل تا نسخه ۱.۶](https://github.com/karyfoundation/arcade)
+* [cliff - کلیف - فرمتر کد ارندل](https://github.com/karyfoundation/cliff)
+* [gothi - گاثی - تولید کننده متن برای ارندل](https://github.com/karyfoundation/gothi-sharp)
+* [marker - مارکر - هایلایتر وب ارندل](https://github.com/karyfoundation/marker-sharp)
+* [sitron - سیترون - مفسر ارندل ۲.۱۴](https://github.com/karyfoundation/sitron)
+* [book - کتاب زبان ارندل](https://github.com/karyfoundation/arendelle-book)
+* [swifty - سویفتی - مفسر سویفت ۲.۱۴](https://github.com/karyfoundation/swifty)
 
 ## گنو/لینوکس GNU/Linux
 
@@ -191,7 +190,7 @@
 * [pfont - قلم آزاد فارسی](https://github.com/pfont/pfont)
 * [font-nika - قلم نیکا](https://github.com/font-store/font-nika)
 * [appa-sariicon - مجموعه‌ای از ۱۴۷ وب‌آیکون برای اپ‌موبایل و وب](https://github.com/sariina/appa-sariicon)
-* [RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی](https://github.com/font-store/font-nika)
+* [RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی](https://github.com/font-store/RitaFontTester)
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
 * [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی](https://github.com/ikacc/gorbeh/)
@@ -210,7 +209,7 @@
 * [Tehlug - گروه کاربران گنو/لینوکس تهران](http://tehlug.org/)
 * [Karajlug - گروه کاربران لینوکس کرج](http://www.karajlug.org/)
 * [Shirazlug - گروه کاربران گنو/لینوکس شیراز](https://shirazlug.ir/)
-* [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/)
+* [FKF - بنیاد دانش آزاد](https://wiki.lfkf.org/%d8%b5%d9%81%d8%ad%d9%87%d9%94_%d8%a7%d8%b5%d9%84%db%8c?setlang=fa)
 * [Node.js Persian Community - جامعه نُد فارسی](http://nodejs.ir/)
 * [IranOnRails - ایران آن ریلز](http://iranonrails.ir/)
 * [Laratalks - جامعه لاراول ایران](http://laratalks.com/)
@@ -224,9 +223,9 @@
 * [مجله سلام دنیا](http://salam-donya.com/)
 * [honeybee-primer - کتاب هانیبی](https://github.com/mostaphaRoudsari/honeybee-primer)
 * [ladybug-primer - کتاب لیدی‌باگ](https://github.com/mostaphaRoudsari/ladybug-primer)
-* [user-guide - کتاب هیت‌استودیو](https://github.com/heatstudio/user-guide)
-* [Python Meta Link - لیستی از منابع (فارسی) پایتون](http://gg.gg/pythonmetalink)
-* [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/فارسی)
+* [user-guide - کتاب هیت‌استودیو](https://github.com/karyfoundation/heatstudio-userguide)
+* [Python Meta Link - لیستی از منابع (فارسی) پایتون](https://docs.google.com/document/d/1xsKUhp_8-LHZQi6jwmpDeRHWpsA-mE8DRzrtCfedCDI/edit?usp=sharing)
+* [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
 
 ## ادیتور
 
@@ -250,6 +249,6 @@
 * [محتوای ساختگی به زبان فارسی برای وردپرس](https://github.com/iazami/persian-dummy-content)
 * [tehran-map - نقشه تهران به صورت برداری برای محلات مختلف](https://github.com/mehdimeskin/tehran-map)
 
-درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/links/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
+درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
 این صفحه در مالکیت عمومی Public Domain قرار دارد.
