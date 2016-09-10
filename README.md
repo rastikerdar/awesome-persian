@@ -8,7 +8,6 @@
 
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
 
-
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
   * [جاوااسکریپت](#جاواسکریپت-javascript)
@@ -196,7 +195,7 @@
 * [RitaFontTester - ریتا فونت تستر ابزاری برای تسریع طراحی و توسعه فونت فارسی/عربی](https://github.com/font-store/font-nika)
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
-* [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی ](https://github.com/ikacc/gorbeh/)
+* [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی](https://github.com/ikacc/gorbeh/)
 
 ## قالب
 
