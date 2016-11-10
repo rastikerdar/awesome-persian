@@ -91,6 +91,8 @@
 * [payment-gateways - بسته پردازش درگاه برای سیستم شتاب ایران](https://github.com/laratalks/payment-gateways)
 * [پکیج کار با درگاههای بانکی](https://github.com/PoolPort/PoolPort)
 * [popcorn - یک API برای دریافت اطلاعات فیلم و سریال](https://github.com/iazami/popcorn)
+* [Widgetify - پکیج ایجاد ویجت یا ابزارک در لاراول](https://github.com/morilog/widgetify)
+* [Flexible Reposiotry - پکیح ایجاد و افزودن لایه ریپازیتوری به اپلیکیشن‌های لاراولی ](https://github.com/morilog/flexible-repository)
 
 ## روبی Ruby
 
