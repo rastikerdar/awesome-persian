@@ -237,6 +237,7 @@
 * [FG42 - توزیعی برپایه ایمکس برای تازه کارها](http://fg42.lxsameer.com/)
 * [Minimalist - ویرایشگر مارک‌داون برای متون فارسی](https://github.com/brothersincode/minimalist)
 * [مارک-داون راست چین](https://github.com/dariubs/rtlmd)
+* [moratab - مرتب، ویرایشگر مارک‌داون فارسی](https://github.com/sobhe/moratab)
 
 ## سایر
 
