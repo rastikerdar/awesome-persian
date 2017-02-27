@@ -106,6 +106,7 @@
 
 * [PersianDT - کتابخانه تاریخ شمسی](https://github.com/abbashosseini/PersianDT)
 * [GraphLab - گرافلب شریف - استودیو تئوری گراف](https://github.com/azinazadi/GraphLab)
+* [JalaliDatePicker - JalaliDatePicker is a Java library that provides a GUI for selecting a Jalali date.](https://github.com/MasoodFallahpoor/JalaliDatePicker)
 
 ## گو GO
 
