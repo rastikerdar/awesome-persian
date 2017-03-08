@@ -107,6 +107,7 @@
 * [PersianDT - کتابخانه تاریخ شمسی](https://github.com/abbashosseini/PersianDT)
 * [GraphLab - گرافلب شریف - استودیو تئوری گراف](https://github.com/azinazadi/GraphLab)
 * [JalaliDatePicker - JalaliDatePicker is a Java library that provides a GUI for selecting a Jalali date.](https://github.com/MasoodFallahpoor/JalaliDatePicker)
+* [Demolisher - برتامه‌ای تحت خط فرمان برای پاک کردن فایل های با نام مشخص از یک پوشه و تمام زیر پوشه های آن](https://github.com/MasoodFallahpoor/Demolisher)
 
 ## گو GO
 
