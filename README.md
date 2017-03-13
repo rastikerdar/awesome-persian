@@ -256,6 +256,7 @@
 * [Iranian IT Bloggers - لیستی از خوراک‌های بلاگ‌های آی‌تی و برنامه نویسی ایرانی](https://github.com/VahidN/IranianITBloggers)
 * [محتوای ساختگی به زبان فارسی برای وردپرس](https://github.com/iazami/persian-dummy-content)
 * [tehran-map - نقشه تهران به صورت برداری برای محلات مختلف](https://github.com/mehdimeskin/tehran-map)
+* [moviesapi - وب‌سرویس فیلم‌ها](http://moviesapi.ir)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
