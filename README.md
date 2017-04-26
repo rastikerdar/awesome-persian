@@ -123,6 +123,7 @@
 * [SunDatePicker - کتابخانه انتخاب‌گر تاریخ فارسی](https://github.com/alirezaafkar/SunDatePicker)
 * [Persian poem application - مجموعهٔ شعر فارسی](https://github.com/NileGroup/Meikade)
 * [farsitel - فارسیتل - اندروید فارسی](https://github.com/farsitel/)
+* [PersianCalendarView - کتابخانه تقویم فارسی اندروید](https://github.com/Roojin/persian-calendar-view)
 
 ## سی پلاس پلاس C++
 
