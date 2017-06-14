@@ -2,11 +2,13 @@
 
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
-این دو لیست خوب را هم ببینید:
+لیست‌های خوب زیر را هم ببینید:
 
 [github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
 
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
+
+[https://github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
@@ -18,6 +20,7 @@
   * [اندروید](#اندروید-android)
   * [سی پلاس پلاس](#سی-پلاس-پلاس-c)
   * [سی شارپ](#سی-شارپ-c)
+  * [لاتک](#لاتک-latex)
   * [گنو/لینوکس](#گنولینوکس-gnulinux)
   * [فونت](#فونت)
   * [قالب](#قالب)
@@ -151,6 +154,9 @@
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
 
+## لاتک latex
+* [tehran-thesis - قالب پایان‌نامهٔ دانشگاه تهران](https://github.com/sinamomken/tehran-thesis)
+
 ## آبجکتیو-سی Objective-C
 
 * [Uninstaller - آن‌اینستالر - برنامه ای برای مدیریت برنامه های مک](https://github.com/kkiani/Uninstaller)
@@ -234,6 +240,7 @@
 * [user-guide - کتاب هیت‌استودیو](https://github.com/karyfoundation/heatstudio-userguide)
 * [Python Meta Link - لیستی از منابع (فارسی) پایتون](https://docs.google.com/document/d/1xsKUhp_8-LHZQi6jwmpDeRHWpsA-mE8DRzrtCfedCDI/edit?usp=sharing)
 * [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
+* [Mobile UX Checklist - چک لیست تجربه کاربری موبایل](https://github.com/parhamb/uxchecklist)
 
 ## ادیتور
 
@@ -248,6 +255,7 @@
 * [khayyam - مجموعه رباعیات خیام در فرمت متنی yaml](https://github.com/mehdisadeghi/khayyam)
 * [StateCityZone - فهرست اسامی استان/شهر ایران به فرمت sql](https://github.com/miladr/StateCityZone)
 * [persian-stopwords - لیست کلمات ایست فارسی](https://github.com/kharazi/persian-stopwords)
+* [Persian Stopwords collection - مجموعه فهرست‌های کلمات ایست فارسی](https://github.com/ziaa/Persian-stopwords-collection)
 * [marhale3.github.io - پروجکت اویلر فارسی](https://github.com/marhale3/marhale3.github.io)
 * [rangebrand.ir - کد رنگ‌های رسمی برند‌های مطرح در ایران](https://github.com/IKAcc/RangeBrand)
 * [iran-cities - استان‌های ایران به‌صورت تفکیک‌شده در قالب جی‌سان](https://github.com/sijad/iran-cities)
