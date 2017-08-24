@@ -13,6 +13,9 @@
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
   * [جاوااسکریپت](#جاواسکریپت-javascript)
+  * [Angular](#angular)
+  * [Angular 1.x](#angular-1x)
+  * [React](#react)
   * [پی اچ پی](#پی-اچ-پی-php)
   * [روبی](#روبی-ruby)
   * [جاوا](#جاوا-java)
@@ -27,6 +30,7 @@
   * [گروه‌ها](#گروهها)
   * [آموزشی](#آموزشی)
   * [ادیتور](#ادیتور)
+  * [سرویس و ابزار](#سرویس-و-ابزار)
   * [سایر](#سایر)
 
 ## پایتون Python
@@ -56,6 +60,8 @@
 
 ## جاواسکریپت Javascript
 
+* [Tedjs - فریم ورک کتابخانه گرا برای ایجاد DOM ها](https://github.com/AML-Project/tedjs)
+* [tedjs.aml - کتابخانه برای تدجی اس که عملکردی شبیه به انگولار دارد](https://github.com/AML-Project/tedjs.aml.std)
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 * [rial.js - کتابخانه‌ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
 * [sentence-info - نمایش اطلاعات نگارشی جمله فارسی](https://github.com/nainemom/sentence-info)
@@ -65,20 +71,15 @@
 * [simple-html5-game - یک بازی ساده HTML5](https://github.com/habibpour/simple-html5-game)
 * [Persian-Calendar-for-Gnome-Shell - تاریخ/تقویم فارسی برای گنوم](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
 * [SaaghiBot - بات اشعار خیام برای تلگرام](https://github.com/mehdisadeghi/SaaghiBot)
-* [angular-persian - ابزارهای فارسی برای آنگولار](https://github.com/mohebifar/angular-persian)
 * [lebab - تبدیل کد ES5 به ES6](https://github.com/mohebifar/lebab)
 * [PersianDate - سیستم parsing, validating, manipulating و formatting تاریخ فارسی](https://github.com/babakhani/PersianDate)
 * [pwt.datepicker - ابزار انتخاب‌گر تاریخ](https://github.com/babakhani/pwt.datepicker)
-* [Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار](https://github.com/AminRahimi/angular-bootstrap-persian-datepicker)
 * [Twitter Bootstrap Jalali Datepicker - تقویم شمسی برای توییتر بوت استرپ](https://github.com/mousavian/bootstrap-jalali-datepicker)
 * [moratab - تسهیل ویرایش متون markdown](https://github.com/sobhe/moratab)
 * [moujez - خلاصه‌سازی متن](https://github.com/kharazi/moujez)
 * [nbpersian - کتاب Node.js برای مبتدی‌ها](https://github.com/imasood/nbpersian)
 * [chemozart - مدل‌ساز و ویرایشگر سه بعدی مولکولی مبتنی بر وب](https://github.com/mohebifar/chemozart)
 * [telegram-github-search-bot - بات جستجوی گیت‌هاب برای تلگرام](https://github.com/mamal72/telegram-github-search-bot)
-* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
-* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
-* [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [electron-jalali-calendar - منوبار تقویم جلالی ساخته‌شده با Electron و React](https://github.com/mamal72/electron-jalali-calendar)
 * [jalaali-js - تبدیل تاریخ شمسی به میلادی و بالعکس](https://github.com/jalaali/jalaali-js)
 * [Iran - Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال](https://github.com/arastu/iran)
@@ -87,6 +88,19 @@
 * [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
 * [fullcalendar - تقویم تمام صفحه برای مدیریت رویداده‌ها با کشیدن و رهاکردن](https://github.com/ehsandanesh/fullcalendar/)
 * [Pol - به اشتراک گذاری قسمت‌های مهم متن وبلاگ در شبکه‌های اجتماعی](https://github.com/ikacc/pol/)
+
+## Angular
+* [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
+* [angular2-persian-utils - مجموعه‌ای از سرویس‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-utils)
+
+## Angular 1.x
+* [angular-persian - ابزارهای فارسی برای آنگولار](https://github.com/mohebifar/angular-persian)
+* [Angular Bootstrap Persian Datepicker - تقویم شمسی آنگولار](https://github.com/AminRahimi/angular-bootstrap-persian-datepicker)
+
+## React
+* [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
+* [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
+* [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 
 ## پی اچ پی PHP
 
@@ -248,6 +262,9 @@
 * [Minimalist - ویرایشگر مارک‌داون برای متون فارسی](https://github.com/brothersincode/minimalist)
 * [مارک-داون راست چین](https://github.com/dariubs/rtlmd)
 * [moratab - مرتب، ویرایشگر مارک‌داون فارسی](https://github.com/sobhe/moratab)
+
+## سرویس و ابزار
+* [FOD (Freedom of Developers) - پراکسی سرور رایگان برای دور زدن تحریم سایت‌های مرتبط با توسعه نرم‌افزار](https://github.com/backtory/fod)
 
 ## سایر
 
