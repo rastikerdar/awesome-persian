@@ -30,6 +30,7 @@
   * [گروه‌ها](#گروهها)
   * [آموزشی](#آموزشی)
   * [ادیتور](#ادیتور)
+  * [سرویس و ابزار](#سرویس-و-ابزار)
   * [سایر](#سایر)
 
 ## پایتون Python
@@ -261,6 +262,9 @@
 * [Minimalist - ویرایشگر مارک‌داون برای متون فارسی](https://github.com/brothersincode/minimalist)
 * [مارک-داون راست چین](https://github.com/dariubs/rtlmd)
 * [moratab - مرتب، ویرایشگر مارک‌داون فارسی](https://github.com/sobhe/moratab)
+
+## سرویس و ابزار
+* [FOD (Freedom of Developers) - پراکسی سرور رایگان برای دور زدن تحریم سایت‌های مرتبط با توسعه نرم‌افزار](https://github.com/backtory/fod)
 
 ## سایر
 
