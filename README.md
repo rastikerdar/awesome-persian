@@ -270,6 +270,7 @@
 
 * [persian-words-frequency - مجموعه ای از فهرست نرخ تکرار واژه ها در متن فارسی](https://github.com/behnam/persian-words-frequency)
 * [khayyam - مجموعه رباعیات خیام در فرمت متنی yaml](https://github.com/mehdisadeghi/khayyam)
+* [Iran's constitution - متن قانون اساسی ایران در فرمت YAML](https://github.com/mehdisadeghi/khayyam)
 * [StateCityZone - فهرست اسامی استان/شهر ایران به فرمت sql](https://github.com/miladr/StateCityZone)
 * [persian-stopwords - لیست کلمات ایست فارسی](https://github.com/kharazi/persian-stopwords)
 * [Persian Stopwords collection - مجموعه فهرست‌های کلمات ایست فارسی](https://github.com/ziaa/Persian-stopwords-collection)
