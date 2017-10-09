@@ -16,6 +16,7 @@
   * [Angular](#angular)
   * [Angular 1.x](#angular-1x)
   * [React](#react)
+  * [Vue.js](#vuejs)
   * [پی اچ پی](#پی-اچ-پی-php)
   * [روبی](#روبی-ruby)
   * [جاوا](#جاوا-java)
@@ -101,6 +102,9 @@
 * [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
 * [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
+
+## Vue.js
+* [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
 
 ## پی اچ پی PHP
 
