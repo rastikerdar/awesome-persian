@@ -89,6 +89,7 @@
 * [Virastar - نوشته‌های فارسی شما را ویرایش می‌کند](https://github.com/juvee/virastar/)
 * [fullcalendar - تقویم تمام صفحه برای مدیریت رویداده‌ها با کشیدن و رهاکردن](https://github.com/ehsandanesh/fullcalendar/)
 * [Pol - به اشتراک گذاری قسمت‌های مهم متن وبلاگ در شبکه‌های اجتماعی](https://github.com/ikacc/pol/)
+* [IRCheck - اعتبار سنجی برخی داده های مربوط به ایران همچون شماره تلفن](https://github.com/DevRoomOrg/ircheck)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
@@ -146,6 +147,8 @@
 * [Persian poem application - مجموعهٔ شعر فارسی](https://github.com/NileGroup/Meikade)
 * [farsitel - فارسیتل - اندروید فارسی](https://github.com/farsitel/)
 * [PersianCalendarView - کتابخانه تقویم فارسی اندروید](https://github.com/Roojin/persian-calendar-view)
+* [generator-helma-mvp - جنریتور اندروید متن‌باز حِلما](https://github.com/abbas-oveissi/generator-helma-mvp)
+
 
 ## سی پلاس پلاس C++
 
@@ -292,6 +295,7 @@
 * [moviesapi - وب‌سرویس فیلم‌ها](http://moviesapi.ir)
 * [mira - میرا، ایجاد سایت‌های استاتیک](https://github.com/kiamazi/mira)
 * [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
+* [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
 
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
