@@ -226,6 +226,8 @@
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
 * [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی](https://github.com/ikacc/gorbeh/)
+* [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
+
 
 ## قالب
 
