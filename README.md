@@ -226,7 +226,6 @@
 * [ویژگی‌های یک قلم فارسی استاندارد](http://saeedgnu.blog.ir/post/50)
 * [font-farbod - فونت فربد](https://github.com/font-store/font-farbod)
 * [Gorbeh - فونت آیکون متریال دیزاین به همراه آیکون‌های ایرانی](https://github.com/ikacc/gorbeh/)
-* [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
 
 
 ## قالب
@@ -291,6 +290,8 @@
 * [tehran-map - نقشه تهران به صورت برداری برای محلات مختلف](https://github.com/mehdimeskin/tehran-map)
 * [moviesapi - وب‌سرویس فیلم‌ها](http://moviesapi.ir)
 * [mira - میرا، ایجاد سایت‌های استاتیک](https://github.com/kiamazi/mira)
+* [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
+
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
