@@ -66,6 +66,7 @@
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 * [rial.js - کتابخانه‌ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
 * [sentence-info - نمایش اطلاعات نگارشی جمله فارسی](https://github.com/nainemom/sentence-info)
+* [Browser computing unleashed](https://github.com/keyvank/pooljs)
 * [کتابخانه تصحیح ورود عدد فارسی در جاوااسکریپت jquery](https://github.com/arashmilani/PersianDocumentNumberInputFix)
 * [tmTheme-Editor - ویرایشگر طرح رنگ برای editorها](http://tmtheme-editor.herokuapp.com/)
 * [PersianOcr - تشخیص کامپیوتری متن‌های نوشته‌شده به زبان فارسی](https://github.com/reza1615/PersianOcr)
