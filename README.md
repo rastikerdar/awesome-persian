@@ -253,6 +253,7 @@
 * [Node.js Persian Community - جامعه نُد فارسی](http://nodejs.ir/)
 * [IranOnRails - ایران آن ریلز](http://iranonrails.ir/)
 * [Laratalks - جامعه لاراول ایران](http://laratalks.com/)
+* [Live Streaming Community - انجمن لایو استریمینگ ایران](http://community.lahzenegar.com/)
 
 ## آموزشی
 
