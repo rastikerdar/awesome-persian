@@ -63,6 +63,7 @@
 ## جاواسکریپت Javascript
 
 * [Tedjs - فریم ورک کتابخانه گرا برای ایجاد DOM ها](https://github.com/AML-Project/tedjs)
+* [Foxify - فریم ورک سریع Node.js](https://github.com/foxifyjs/foxify)
 * [tedjs.aml - کتابخانه برای تدجی اس که عملکردی شبیه به انگولار دارد](https://github.com/AML-Project/tedjs.aml.std)
 * [persian.js - کتابخانه‌ای برای زبان فارسی در جاوااسکرپیت](https://github.com/usablica/persian.js)
 * [rial.js - کتابخانه‌ای برای فرمت نرخ و پول در جاوااسکریپت](https://github.com/habibpour/rial.js)
