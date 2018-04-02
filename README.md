@@ -303,7 +303,7 @@
 * [mira - میرا، ایجاد سایت‌های استاتیک](https://github.com/kiamazi/mira)
 * [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
 * [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
-
+* [سرویس «شکن»](https://shecan.ir/)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
