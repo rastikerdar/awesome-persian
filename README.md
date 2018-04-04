@@ -93,6 +93,9 @@
 * [fullcalendar - تقویم تمام صفحه برای مدیریت رویداده‌ها با کشیدن و رهاکردن](https://github.com/ehsandanesh/fullcalendar/)
 * [Pol - به اشتراک گذاری قسمت‌های مهم متن وبلاگ در شبکه‌های اجتماعی](https://github.com/ikacc/pol/)
 * [IRCheck - اعتبار سنجی برخی داده های مربوط به ایران همچون شماره تلفن](https://github.com/DevRoomOrg/ircheck)
+* [NumToPersian - تبدیل عدد به حروف فارسی در جاوا اسکریپت](https://github.com/mahmoud-eskandari/NumToPersian)
+* [jqvmap - نقشه‌ی جاوا اسکریپتی تقسیمات کشوری ایران](https://github.com/10bestdesign/jqvmap)
+* [تابع تشخیص صحت قبوض ایران](https://github.com/webafrooz/IranBill)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
@@ -122,6 +125,8 @@
 * [Laravel Widgetize - پکیج ایجاد ویجت یا ابزارک در لاراول](https://github.com/imanghafoori1/laravel-widgetize)
 * [Flexible Reposiotry - پکیح ایجاد و افزودن لایه ریپازیتوری به اپلیکیشن‌های لاراولی ](https://github.com/morilog/flexible-repository)
 * [simple-date-bundle - تقویم شمسی در Symfony2](https://github.com/msajadi824/simple-date-bundle)
+* [کلاس تبدیل انکدینگ utf-8 به IranSystem در php](https://github.com/webafrooz/IranSystemConvertor)
+* [کلاس رندر و سازگاری حروف فارسی برای استفاده در تصاویر GD-image php](https://github.com/mahmoud-eskandari/PersianRender)
 
 ## روبی Ruby
 
