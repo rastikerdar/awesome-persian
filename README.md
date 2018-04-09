@@ -250,6 +250,7 @@
 * [Raha - قالب آزاد وبلاگی وردپرس](https://github.com/poriyaMH/Raha)
 * [Joqd - وب فریم‌ورک متریال دیزاین](https://github.com/ikacc/joqd/)
 * [Jikan CSS Framework - فریمورک سمت کاربر ژیکان](https://GitHub.com/JikanCSS)
+* [Hexo-Theme-Cactus - قالبی با پشتیبانی از زبان فارسی و فونت وزیر برای هگزو](https://github.com/probberechts/hexo-theme-cactus)
 
 ## گروه‌ها
 
