@@ -289,6 +289,8 @@
 ## سرویس و ابزار
 * [FOD (Freedom of Developers) - پراکسی سرور رایگان برای دور زدن تحریم سایت‌های مرتبط با توسعه نرم‌افزار](https://github.com/backtory/fod)
 * [Shecan شکن - سرویس رایگان دور زدن تحریم‌های اینترنتی صرفاً با تغییر سرور دی‌ان‌اس](https://shecan.ir/)
+- [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
+- [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
 
 ## سایر
 
