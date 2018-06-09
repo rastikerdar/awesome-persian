@@ -193,10 +193,6 @@
 
 * [Uninstaller - آن‌اینستالر - برنامه ای برای مدیریت برنامه های مک](https://github.com/kkiani/Uninstaller)
 
-## اپل‌اسکریپت AppleScript
-
-* [osx-term-icon - آیکون برای برنامه های شل](https://github.com/pmkary/osx-term-icon)
-
 ## تایپ اسکریپت TypeScript
 
 * [comment - کامنت - جنریتور کامنت های کی-اف-سی-اس](https://github.com/karyfoundation/comment)
