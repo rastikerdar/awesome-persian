@@ -132,7 +132,6 @@
 
 * [jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی](https://github.com/aziz/jalalidate)
 * [openstudio-standards - مبحث‌۱۹ در اپن استودیو - استاندارد های انرژی ایران برای اوپن‌استودیو](https://github.com/karyfoundation/openstudio-standards)
-* [erect - ارکت - نانو بیلد سیستم](https://github.com/pmkary/erect)
 
 ## جاوا Java
 
@@ -178,11 +177,7 @@
 * [numerica - نومریکا - تایپ عددی با ظرفیت دلخواه](https://github.com/karyfoundation/numerica)
 * [calculat -  NCalcکلکولات - نسخه بهتر شده کتابخانه](https://github.com/karyfoundation/calculat)
 * [series - سریز - یک بازی ترمینالی برای حدث زدن فرمول دنباله ها](https://github.com/pmkary/series)
-* [loc - لک - خط شمار تحت فریمورک کاری](https://github.com/pmkary/loc)
 * [note - نوت - برنامه یاداشت تحت فریمورک کاری](https://github.com/pmkary/note)
-* [equer - ایکوئر: تبدیل کننده فرمول به اسکریپت](https://github.com/pmkary/equer)
-* [textfliper -  تکست فیلپر - برای دوباره فارسی کردن نوشته های کپی شده از پی دی اف های ادوبی](https://github.com/pmkary/textfliper)
-* [binominor - بینومینال - گسترش دهنده بسته نیوتونی](https://github.com/pmkary/binominor)
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
 
