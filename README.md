@@ -3,7 +3,7 @@
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
 
 لیست‌های خوب زیر را هم ببینید:
-
+ome unavailable links
 [github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
 
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
@@ -170,12 +170,9 @@
 
 * [hydra-dynamo - هیدار داینامو - برای انتشار مدل های داینامو در وب](https://github.com/HydraShare/hydra-dynamo)
 * [pablo - پابلو - موتور صفحه بندی و لیات](https://github.com/pabloengine/pablo)
-* [framework-base - فریمورک کاری - فریم ورک ویرایش، قالب بندی و شکل دهی به متون](https://github.com/karyfoundation/framework-base)
 * [intactus - اینتکتوس - کتابخانه تولید نوتیشن ریاضی و چارت با استفاده از متن](https://github.com/karyfoundation/intactus)
 * [i3dml - آی‌تری‌دی‌ام - تریسی در دات نت](https://github.com/keyvank/i3dml)
 * [BD2 - بی‌دی‌۲ - موتور دیتابیس توضیع شده](https://github.com/Behrooz-Amoozad/BD2)
-* [numerica - نومریکا - تایپ عددی با ظرفیت دلخواه](https://github.com/karyfoundation/numerica)
-* [calculat -  NCalcکلکولات - نسخه بهتر شده کتابخانه](https://github.com/karyfoundation/calculat)
 * [series - سریز - یک بازی ترمینالی برای حدث زدن فرمول دنباله ها](https://github.com/pmkary/series)
 * [note - نوت - برنامه یاداشت تحت فریمورک کاری](https://github.com/pmkary/note)
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
