@@ -196,7 +196,6 @@
 ## تایپ اسکریپت TypeScript
 
 * [comment - کامنت - جنریتور کامنت های کی-اف-سی-اس](https://github.com/karyfoundation/comment)
-* [V - وی - ابزاری برای تنظیم ارتفاع دیو های یک ردیف](https://github.com/pmkary/V)
 * [react-mixout - میکس آوت - میکیسنگ با اولویت بالاتر](https://github.com/alitaheri/react-mixout)
 * [isomorphic-vm - ایزومورفیک وی ام - دسترسی به نود جی اس از مرورگر](https://github.com/alitaheri/isomorphic-vm)
 * [react-stated - ری‌اکت استیتد - برای انتقال منطق کامپوننت ها به بیرون آن ها](https://github.com/alitaheri/react-stated)
