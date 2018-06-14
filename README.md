@@ -257,7 +257,6 @@
 * [مجله سلام دنیا](http://salam-donya.com/)
 * [honeybee-primer - کتاب هانیبی](https://github.com/mostaphaRoudsari/honeybee-primer)
 * [ladybug-primer - کتاب لیدی‌باگ](https://github.com/mostaphaRoudsari/ladybug-primer)
-* [user-guide - کتاب هیت‌استودیو](https://github.com/karyfoundation/heatstudio-userguide)
 * [Python Meta Link - لیستی از منابع (فارسی) پایتون](https://docs.google.com/document/d/1xsKUhp_8-LHZQi6jwmpDeRHWpsA-mE8DRzrtCfedCDI/edit?usp=sharing)
 * [توضیحات فارسی Fisherman - افزونه‌ای برای fish](https://github.com/fisherman/fisherman/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
 * [Mobile UX Checklist - چک لیست تجربه کاربری موبایل](https://github.com/parhamb/uxchecklist)
