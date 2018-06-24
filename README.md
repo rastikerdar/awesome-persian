@@ -8,7 +8,9 @@
 
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
 
-[https://github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
+[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
+
+[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [پایتون](#پایتون-python)
