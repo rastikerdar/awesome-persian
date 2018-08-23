@@ -182,6 +182,7 @@
 
 ## لاتک latex
 * [tehran-thesis - قالب پایان‌نامهٔ دانشگاه تهران](https://github.com/sinamomken/tehran-thesis)
+* [قالب نوشتار رزومه](https://github.com/mortezakarimi/morteza-karimi-resume)
 
 ## آبجکتیو-سی Objective-C
 
@@ -238,6 +239,7 @@
 * [Hexo-Theme-Cactus - قالبی با پشتیبانی از زبان فارسی و فونت وزیر برای هگزو](https://github.com/probberechts/hexo-theme-cactus)
 * [Materialize-rtl - نسخه راست به چپ Materialize](https://github.com/MahdiMajidzadeh/materialize-rtl)
 * [Bootstrap4-Rtl - نسخه راست به چپ Bootstrap 4](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
+* [Gentelella-RTL- قالب رایگان مدیریت](https://github.com/mortezakarimi/gentelella-rtl)
 
 ## گروه‌ها
 
