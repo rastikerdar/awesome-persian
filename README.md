@@ -111,8 +111,7 @@
 * [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
 * [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
-* [imrc-datetime-picker - انتخابگر تاریخ میلادی و زمان به زبان انگلیسی برای React](https://imrc-datetime-picker.js.org)
-* [react-solar-datetime-picker - انتخابگر تاریخ شمسی و زمان با پشتیبانی از زبان فارسی برای React](https://react-solar-datetime-picker.js.org)
+* [imrc-datetime-picker - انتخابگر تاریخ و زمان برای React](https://imrc-datetime-picker.js.org)
 
 ## Vue.js
 * [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
