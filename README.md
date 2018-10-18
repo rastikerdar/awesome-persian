@@ -180,6 +180,7 @@
 * [note - نوت - برنامه یاداشت تحت فریمورک کاری](https://github.com/pmkary/note)
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
+* [PocketX - برنامه غیررسمی پاکت برای ویندوز](https://github.com/yazdipour/pocketx)
 
 ## لاتک latex
 * [tehran-thesis - قالب پایان‌نامهٔ دانشگاه تهران](https://github.com/sinamomken/tehran-thesis)
@@ -279,6 +280,7 @@
 * [Shecan شکن - سرویس رایگان دور زدن تحریم‌های اینترنتی صرفاً با تغییر سرور دی‌ان‌اس](https://shecan.ir/)
 - [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
 - [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
+- [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
 
 ## سایر
 
