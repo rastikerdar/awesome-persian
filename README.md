@@ -26,6 +26,7 @@
   * [اندروید](#اندروید-android)
   * [سی پلاس پلاس](#سی-پلاس-پلاس-c)
   * [سی شارپ](#سی-شارپ-c)
+  * [سوییفت](#سوییفت-swift)
   * [لاتک](#لاتک-latex)
   * [گنو/لینوکس](#گنولینوکس-gnulinux)
   * [فونت](#فونت)
@@ -181,6 +182,11 @@
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
 * [PocketX - برنامه غیررسمی پاکت برای ویندوز](https://github.com/yazdipour/pocketx)
+
+## سوییفت Swift
+
+* [PersianSwift - پارسی‌سوییفت](https://github.com/omidgolparvar/PersianSwift)
+* [lyricsify-mac - منو لیریکس مک او اس با سوییفت](https://github.com/mamal72/lyricsify-mac)
 
 ## لاتک latex
 * [tehran-thesis - قالب پایان‌نامهٔ دانشگاه تهران](https://github.com/sinamomken/tehran-thesis)
