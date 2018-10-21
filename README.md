@@ -182,6 +182,7 @@
 * [PersianNumericConverter - مبدل عدد به متن فارسی و برعکس](https://github.com/RDF-Co/PersianNumericConverter)
 * [Bois - Binary Object Serializer تبدیل آبجکت ها به باینری فشرده](https://github.com/salarcode/Bois)
 * [PocketX - برنامه غیررسمی پاکت برای ویندوز](https://github.com/yazdipour/pocketx)
+* [EyesGuard - نرم افزار نگهبان چشم](https://github.com/0xaryan/EyesGuard)
 
 ## سوییفت Swift
 
