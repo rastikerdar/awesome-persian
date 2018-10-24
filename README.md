@@ -229,6 +229,7 @@
 * [linuxandlife - کتاب راهنمای لینوکس و زندگی](https://github.com/jadijadi/linuxandlife)
 * [راهنمای شِل اسکریپتینگ (برنامه‌نویسی خط فرمان لینوکس)](http://wiki.linuxreview.ir/Shell-scripting-tutorial)
 * [Jalali Calendar Library - کتابخانهٔ تقویم جلالی](https://github.com/ashkang/jcal)
+* [just for fun - فقط برای تفریح](https://github.com/jadijadi/justforfun)
 
 ## فونت
 
