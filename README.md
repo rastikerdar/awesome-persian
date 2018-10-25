@@ -40,7 +40,8 @@
 
 ## UI/UX رابط کاربری / تجربه کاربری 
 
-* [Bootstrap 4 RTL / راست به چپ / بروزرسانی هفتگی / v4.1.3 rev.14](https://perseusthegreat.github.io/bs4rtl-examples/archive/bootstrap-4.1.3-plus-rtl-rev.14-dist.zip)
+* [Bootstrap 4 RTL / راست به چپ / بروز رسانی هفتگی](https://github.com/PerseusTheGreat/bootstrap-4-rtl)
+  * [Example pages of Bootstrap 4 in RTL direction](https://github.com/PerseusTheGreat/bs4rtl-examples)
 
 ## پایتون Python
 
