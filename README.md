@@ -1,3 +1,6 @@
+<div dir="rtl">
+ 
+ 
 # لینک‌های ایرانی توسعه و طراحی
 
 خواهشمند است لینک‌های **ایرانی** درزمینه توسعه و طراحی را که می‌شناسید برای استفاده عموم به این صفحه اضافه نمایید.
@@ -13,6 +16,7 @@
 [github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
+  * [UI/UX - رابط کاربری / تجربه کاربری](#uiux-رابط-کاربری--تجربه-کاربری)
   * [پایتون](#پایتون-python)
   * [جاوااسکریپت](#جاواسکریپت-javascript)
   * [Angular](#angular)
@@ -36,6 +40,11 @@
   * [ادیتور](#ادیتور)
   * [سرویس و ابزار](#سرویس-و-ابزار)
   * [سایر](#سایر)
+
+## UI/UX رابط کاربری / تجربه کاربری 
+
+* [Bootstrap 4 RTL / راست به چپ / بروز رسانی هفتگی](https://github.com/PerseusTheGreat/bootstrap-4-rtl)
+  * [Example pages of Bootstrap 4 in RTL direction](https://github.com/PerseusTheGreat/bs4rtl-examples)
 
 ## پایتون Python
 
@@ -224,6 +233,7 @@
 * [linuxandlife - کتاب راهنمای لینوکس و زندگی](https://github.com/jadijadi/linuxandlife)
 * [راهنمای شِل اسکریپتینگ (برنامه‌نویسی خط فرمان لینوکس)](http://wiki.linuxreview.ir/Shell-scripting-tutorial)
 * [Jalali Calendar Library - کتابخانهٔ تقویم جلالی](https://github.com/ashkang/jcal)
+* [just for fun - فقط برای تفریح](https://github.com/jadijadi/justforfun)
 
 ## فونت
 
@@ -314,3 +324,6 @@
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
 این صفحه در مالکیت عمومی Public Domain قرار دارد.
+
+
+</div>
