@@ -7,13 +7,12 @@
 
 لیست‌های خوب زیر را هم ببینید:
 
-[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
+[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)  
+[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)  
+[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)  
+[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)  
+[github.com/Ashkan-rmk/awesome-persian-podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
 
-[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
-
-[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
-
-[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [UI/UX - رابط کاربری / تجربه کاربری](#uiux-رابط-کاربری--تجربه-کاربری)
