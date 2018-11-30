@@ -70,6 +70,7 @@
 * [hydra-grasshopper - هیدار برای گرس هاپر](https://github.com/HydraShare/hydra-grasshopper)
 * [fonttools - کتابخانه ای برای ویرایش فونت ها در پایتون](https://github.com/behdad/fonttools)
 * [URL-Status - مشخص کننده وضعیت HTTP لینک ها](https://GitHub.com/AliBahaari/URL-Status)
+* [Flask-HTMLmin - کاهش دهنده سایز ریسپانس در فلاسک ](https://github.com/hamidfzm/Flask-HTMLmin)
 
 ## جاواسکریپت Javascript
 
