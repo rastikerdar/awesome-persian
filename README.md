@@ -120,6 +120,7 @@
 ## React
 * [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
 * [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
+* [react-datepicker2 - نسخه بهبود یافته react-persian-datepicker به همراه تقویم میلادی ](https://github.com/mberneti/react-datepicker2)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [imrc-datetime-picker - انتخابگر تاریخ و زمان با پشتیبانی از زبان فارسی و تاریخ شمسی برای React](https://imrc-datetime-picker.js.org)
 
