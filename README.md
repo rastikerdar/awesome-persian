@@ -7,13 +7,12 @@
 
 لیست‌های خوب زیر را هم ببینید:
 
-[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)
+[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)  
+[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)  
+[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)  
+[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)  
+[github.com/Ashkan-rmk/awesome-persian-podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
 
-[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)
-
-[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)
-
-[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
   * [UI/UX - رابط کاربری / تجربه کاربری](#uiux-رابط-کاربری--تجربه-کاربری)
@@ -71,6 +70,7 @@
 * [hydra-grasshopper - هیدار برای گرس هاپر](https://github.com/HydraShare/hydra-grasshopper)
 * [fonttools - کتابخانه ای برای ویرایش فونت ها در پایتون](https://github.com/behdad/fonttools)
 * [URL-Status - مشخص کننده وضعیت HTTP لینک ها](https://GitHub.com/AliBahaari/URL-Status)
+* [Flask-HTMLmin - کاهش دهنده سایز ریسپانس در فلاسک ](https://github.com/hamidfzm/Flask-HTMLmin)
 
 ## جاواسکریپت Javascript
 
@@ -120,6 +120,7 @@
 ## React
 * [react-persian - مجموعه‌ای از کامپوننت های React برای زبان فارسی](https://github.com/evandhq/react-persian)
 * [react-persian-datepicker - انتخابگر تاریخ فارسی برای React](https://github.com/evandhq/react-persian-datepicker)
+* [react-datepicker2 - نسخه بهبود یافته react-persian-datepicker به همراه تقویم میلادی ](https://github.com/mberneti/react-datepicker2)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [imrc-datetime-picker - انتخابگر تاریخ و زمان با پشتیبانی از زبان فارسی و تاریخ شمسی برای React](https://imrc-datetime-picker.js.org)
 
