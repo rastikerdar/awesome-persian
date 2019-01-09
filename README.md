@@ -108,6 +108,8 @@
 * [NumToPersian - تبدیل عدد به حروف فارسی در جاوا اسکریپت](https://github.com/mahmoud-eskandari/NumToPersian)
 * [jqvmap - نقشه‌ی جاوا اسکریپتی تقسیمات کشوری ایران](https://github.com/10bestdesign/jqvmap)
 * [تابع تشخیص صحت قبوض ایران](https://github.com/webafrooz/IranBill)
+* [Checkify - پلاگین اعتبارسنجی فرم](https://github.com/digitalify/checkify)
+* [Reactify - ایجاد پروژه ری-اکت از طریق خط فرمان](https://github.com/digitalify/reactify)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
