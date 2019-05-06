@@ -257,7 +257,7 @@
 * [thewhite - قالب سفید](https://github.com/TheYahya/thewhite)
 * [Raha - قالب آزاد وبلاگی وردپرس](https://github.com/poriyaMH/Raha)
 * [Joqd - وب فریم‌ورک متریال دیزاین](https://github.com/ikacc/joqd/)
-* [Jikan CSS Framework - فریمورک سمت کاربر ژیکان](https://GitHub.com/JikanCSS)
+* [Jikan - فریمورک سمت کاربر ژیکان](https://GitHub.com/AliBahaari/Jikan)
 * [Hexo-Theme-Cactus - قالبی با پشتیبانی از زبان فارسی و فونت وزیر برای هگزو](https://github.com/probberechts/hexo-theme-cactus)
 * [Materialize-rtl - نسخه راست به چپ Materialize](https://github.com/MahdiMajidzadeh/materialize-rtl)
 * [Bootstrap4-Rtl - نسخه راست به چپ Bootstrap 4](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
