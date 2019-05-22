@@ -302,6 +302,7 @@
 - [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
 - [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
 - [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
+- [GAPITA - وب سایت چت ناشناس و تصادفی](https://github.com/ehsan-mohammadi/GAPITA)
 
 ## سایر
 
