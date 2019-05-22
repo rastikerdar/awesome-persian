@@ -181,6 +181,7 @@
 * [Butterfly - باترفلای - کانکشن گرسه‌هاپر به اوپن‌فوم](https://github.com/mostaphaRoudsari/Butterfly)
 * [tracy - تریسی - موتور گرافیک سه بعدی](https://github.com/keyvank/tracy)
 * [harfbuzz - کتابخانه text shaping](https://github.com/behdad/harfbuzz)
+* [DuckX - کتابخانه پردازش فایلهای docx](https://github.com/amiremohamadi/duckx)
 
 ## سی شارپ C♯
 
