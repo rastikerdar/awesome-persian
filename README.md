@@ -157,6 +157,7 @@
 * [JalaliDatePicker - JalaliDatePicker is a Java library that provides a GUI for selecting a Jalali date.](https://github.com/MasoodFallahpoor/JalaliDatePicker)
 * [Demolisher - برتامه‌ای تحت خط فرمان برای پاک کردن فایل های با نام مشخص از یک پوشه و تمام زیر پوشه های آن](https://github.com/MasoodFallahpoor/Demolisher)
 * [persian-date-time - کتابخانه گاه‌شماره پارسی](https://github.com/mfathi91/persian-date-time)
+* [JavaPersianUtils - کتابخانه‌ای است متشکل از متدهای الحاقی کمکی جهت کار با زبان و تاریخ فارسی](https://github.com/M-Razavi/JavaPersianUtils.Core)
 
 ## گو GO
 
