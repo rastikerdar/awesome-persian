@@ -111,6 +111,7 @@
 * [تابع تشخیص صحت قبوض ایران](https://github.com/webafrooz/IranBill)
 * [Checkify - پلاگین اعتبارسنجی فرم](https://github.com/digitalify/checkify)
 * [Reactify - ایجاد پروژه ری-اکت از طریق خط فرمان](https://github.com/digitalify/reactify)
+* [gulp-fonitan - یک پلاگین برای گالپ که فونت‌های ایران را دانلود میکنه](https://github.com/nekofar/gulp-fontiran)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
