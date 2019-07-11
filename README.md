@@ -111,6 +111,7 @@
 * [تابع تشخیص صحت قبوض ایران](https://github.com/webafrooz/IranBill)
 * [Checkify - پلاگین اعتبارسنجی فرم](https://github.com/digitalify/checkify)
 * [Reactify - ایجاد پروژه ری-اکت از طریق خط فرمان](https://github.com/digitalify/reactify)
+* [gulp-fonitan - یک پلاگین برای گالپ که فونت‌های ایران را دانلود میکنه](https://github.com/nekofar/gulp-fontiran)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
@@ -327,6 +328,7 @@
 * [mira - میرا، ایجاد سایت‌های استاتیک](https://github.com/kiamazi/mira)
 * [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
 * [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
+* [Virgool - یک پلاگین برای وردپرس که نوشته ها را به ویرگول میفرسته.](https://github.com/nekofar/virgool)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
