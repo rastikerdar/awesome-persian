@@ -43,7 +43,8 @@
 ## UI/UX رابط کاربری / تجربه کاربری 
 
 * [Bootstrap 4 RTL / راست به چپ / بروز رسانی هفتگی](http://bootstrapper.ir)
-  * [نمونه صفحات Bootstrap 4 به شکل راست به چپ](http://example.bootstrapper.ir/)
+  * [مستندات Bootstrap 4 (راست به چپ)](http://docs.bootstrapper.ir/)
+  * [نمونه صفحات Bootstrap 4 (راست به چپ)](http://example.bootstrapper.ir/)
 
 ## پایتون Python
 
