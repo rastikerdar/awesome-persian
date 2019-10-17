@@ -113,6 +113,7 @@
 * [Checkify - پلاگین اعتبارسنجی فرم](https://github.com/digitalify/checkify)
 * [Reactify - ایجاد پروژه ری-اکت از طریق خط فرمان](https://github.com/digitalify/reactify)
 * [gulp-fonitan - یک پلاگین برای گالپ که فونت‌های ایران را دانلود میکنه](https://github.com/nekofar/gulp-fontiran)
+* [بازی تتریس با کلمات فارسی](https://github.com/amirshnll/Tetris)
 
 ## Angular
 * [angular2-persian-pipes - مجموعه‌ای از پایپ‌های فارسی در انگولار](https://github.com/JavadRasouli/angular2-persian-pipes)
@@ -146,6 +147,7 @@
 * [simple-date-bundle - تقویم شمسی در Symfony2](https://github.com/msajadi824/simple-date-bundle)
 * [کلاس تبدیل انکدینگ utf-8 به IranSystem در php](https://github.com/webafrooz/IranSystemConvertor)
 * [کلاس رندر و سازگاری حروف فارسی برای استفاده در تصاویر GD-image php](https://github.com/mahmoud-eskandari/PersianRender)
+* [تشخیص چهره با microsoft face api](https://github.com/amirshnll/face-detect-php)
 
 ## روبی Ruby
 
@@ -330,6 +332,7 @@
 * [Persian-twitter - افزونه ی مرورگر برای تغییر قلم فارسی توییتر](https://github.com/mamal72/persian-twitter)
 * [Quiz Bot - ربات تلگرامی ساخت آزمون](https://github.com/mort3za/quizbot)
 * [Virgool - یک پلاگین برای وردپرس که نوشته ها را به ویرگول میفرسته.](https://github.com/nekofar/virgool)
+* [بانک لغت های معنادار فارسی json](https://github.com/amirshnll/persianwordjson)
 
 درصورتی‌که برای درج لینک در این صفحه با مشکلی مواجه هستید یا پیشنهاد و انتقادی دارید در قسمت [ایشوها](https://github.com/rastikerdar/awesome-persian/issues) حتما در میان بگذارید. یا اینکه با آدرس saber.rastikerdar بر روی جی‌میل نامه‌نگاری فرمایید.
 
