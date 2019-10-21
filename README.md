@@ -133,6 +133,8 @@
 ## Vue.js
 * [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
 * [vue-registrar - سرهم کننده خودکار کامپوننت‌ها و ماژول‌های ویو‌ایکس](https://github.com/evryn/vue-registrar)
+* [vue-modern-resume - قالب رزومه شخصی در Vue.js](https://github.com/evryn/vue-modern-resume)
+
 
 ## پی اچ پی PHP
 
@@ -149,6 +151,7 @@
 * [کلاس تبدیل انکدینگ utf-8 به IranSystem در php](https://github.com/webafrooz/IranSystemConvertor)
 * [کلاس رندر و سازگاری حروف فارسی برای استفاده در تصاویر GD-image php](https://github.com/mahmoud-eskandari/PersianRender)
 * [تشخیص چهره با microsoft face api](https://github.com/amirshnll/face-detect-php)
+* [Laravel Toman - پکیج راه اندازی درگاه پرداخت در لاراول](https://github.com/evryn/laravel-toman)
 
 ## روبی Ruby
 
@@ -189,6 +192,7 @@
 * [tracy - تریسی - موتور گرافیک سه بعدی](https://github.com/keyvank/tracy)
 * [harfbuzz - کتابخانه text shaping](https://github.com/behdad/harfbuzz)
 * [DuckX - کتابخانه پردازش فایلهای docx](https://github.com/amiremohamadi/duckx)
+* [USB Keystroke Injector - تزریق کننده کلیدهای کیبورد از طریق یواِس‌بی برای آردوینو](https://github.com/AmirrezaNasiri/usb-keystroke-injector)
 
 ## سی شارپ C♯
 
