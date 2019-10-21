@@ -190,6 +190,7 @@
 * [tracy - تریسی - موتور گرافیک سه بعدی](https://github.com/keyvank/tracy)
 * [harfbuzz - کتابخانه text shaping](https://github.com/behdad/harfbuzz)
 * [DuckX - کتابخانه پردازش فایلهای docx](https://github.com/amiremohamadi/duckx)
+* [USB Keystroke Injector - تزریق کننده کلیدهای کیبورد از طریق یواِس‌بی برای آردوینو](https://github.com/AmirrezaNasiri/usb-keystroke-injector)
 
 ## سی شارپ C♯
 
