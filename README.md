@@ -148,6 +148,7 @@
 * [کلاس تبدیل انکدینگ utf-8 به IranSystem در php](https://github.com/webafrooz/IranSystemConvertor)
 * [کلاس رندر و سازگاری حروف فارسی برای استفاده در تصاویر GD-image php](https://github.com/mahmoud-eskandari/PersianRender)
 * [تشخیص چهره با microsoft face api](https://github.com/amirshnll/face-detect-php)
+* [Telegram Web Bridge - پراکسی دوطرفه تحت وب تلگرام](https://github.com/AmirrezaNasiri/telegram-web-bridge)
 
 ## روبی Ruby
 
