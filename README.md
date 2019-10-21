@@ -132,6 +132,7 @@
 
 ## Vue.js
 * [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
+* [vue-registrar - سرهم کننده خودکار کامپوننت‌ها و ماژول‌های ویو‌ایکس](https://github.com/evryn/vue-registrar)
 
 ## پی اچ پی PHP
 
