@@ -11,7 +11,7 @@
 [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)  
 [github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)  
 [github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)  
-[github.com/Ashkan-rmk/awesome-persian-podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
+[:sound: لیست بهترین پادکست‌های فارسی](https://github.com/ashkanRmk/awesome-persian-podcasts)
 
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
