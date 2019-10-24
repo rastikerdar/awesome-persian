@@ -315,6 +315,8 @@
 - [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
 - [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
 - [GAPITA - وب سایت چت ناشناس و تصادفی](https://github.com/ehsan-mohammadi/GAPITA)
+- [کوتاه کننده لینک kutt.it](https://kutt.it)
+
 
 ## سایر
 
