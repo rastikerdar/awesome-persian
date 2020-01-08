@@ -129,6 +129,8 @@
 * [react-datepicker2 - نسخه بهبود یافته react-persian-datepicker به همراه تقویم میلادی ](https://github.com/mberneti/react-datepicker2)
 * [react-github - یک مجموعه از کامپوننت های React برای گیت‌هاب](https://github.com/mamal72/react-github)
 * [imrc-datetime-picker - انتخابگر تاریخ و زمان با پشتیبانی از زبان فارسی و تاریخ شمسی برای React](https://imrc-datetime-picker.js.org)
+* [react-hgs-owl-carousel - ایجاد حالت راستچین برای اسلایدر owlCarousel و قابلیت استفاده از همه امکانات این اسلایدر](https://github.com/MostafaRastegar/react-hgs-owl-carousel)
+* [react-input-range - افزودن rtl به این کامپوننت](https://github.com/snappmarket/react-input-range)
 
 ## Vue.js
 * [vue2-persian-datepicker - افزونه انتخاب تاریخ جلالی برای Vue.js](https://dyonir.github.io/vue2-persian-datepicker/)
